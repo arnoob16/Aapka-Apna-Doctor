@@ -878,6 +878,22 @@ nlu:
   examples: |
    -What happens after my newborn's umbilical cord falls off?
 
+- intent: faq/warning_signs_cognitive_developmental_delays_in_children
+  examples: |
+   -What are warning signs of cognitive developmental delays in children?
+
+- intent: faq/causes_ankylosing_spondylitis
+  examples: |
+   -What causes ankylosing spondylitis?
+
+- intent: faq/cemotions_cause_back_pain
+  examples: |
+   -How can emotions cause back pain?
+
+- intent: faq/diagnosed_sciatica,_treatments_be
+  examples: |
+   -If I am diagnosed with sciatica, what will my treatments be?
+
 - intent: faq/doctdetermine_sciatica
   examples: |
    -How does a doctor determine if you have sciatica?
@@ -1482,6 +1498,10 @@ nlu:
   examples: |
    -Will the doctor use blood tests to diagnose polycythemia vera?
 
+- intent: faq/complete_blood_count_used_diagnose_polycythemivera
+  examples: |
+   -What is a complete blood count and how is it used to diagnose polycythemia vera?
+
 - intent: faq/phlebotoused_trepolycythemivera
   examples: |
    -What is phlebotomy and how is it used to treat polycythemia vera?
@@ -1529,6 +1549,10 @@ nlu:
 - intent: faq/phlebotoused_trepolycythemivera
   examples: |
    -How is a phlebotomy used to treat polycythemia vera?
+
+- intent: faq/complete_blood_count_(cbc)_used_diagnose_polycythemivera
+  examples: |
+   -How is a complete blood count (CBC) used to diagnose polycythemia vera?
 
 - intent: faq/bone_biopsy_fpolycythemivera
   examples: |

@@ -126,79 +126,10 @@ responses:
   - text: "Most often, acne will go away on its own at the end of puberty, but some people still struggle with acne in adulthood. Almost all acne can be successfully treated, however. It’s a matter of finding the right treatment for you."
 
   utter_faq/happens_blocked_pores_on_yface_becoinfected_inflamed:
-  - text: "If blocked pores become infected or inflamed, a pimple -- a raised red spot with a white center -- forms. If the pore clogs, closes, and then bulges, you have a whitehead. A blackhead occurs when the pore clogs, stays open, and the top has a blackish appearance due to oxidation or exposure to air. (This has nothing to do with skin being dirty")."
+  - text: "If blocked pores become infected or inflamed, a pimple -- a raised red spot with a white center -- forms. If the pore clogs, closes, and then bulges, you have a whitehead. A blackhead occurs when the pore clogs, stays open, and the top has a blackish appearance due to oxidation or exposure to air. (This has nothing to do with skin being dirty )."
 
   utter_faq/sun_exposure_affect_acne:
   - text: "The sun's ultraviolet rays can increase inflammation and redness, and can cause post-inflammatory hyperpigmentation (dark discoloration). Some acne medications may make your skin more sensitive to sunlight. Limit your time in the sun, especially between the hours of 10 a.m. and 4 p.m., and wear protective clothing, such as a long-sleeved shirt, pants, and a broad-brimmed hat. Whether you have pimples or not, always apply a broad-spectrum sunscreen with 6% zinc oxide or higher and  SPF 30 or higher at least 20 minutes before sun exposure. Look for noncomedogenic on the sunscreen label to make new pimples less likely. Read the ingredients on the product label to know what you're putting on your skin."
-
-  utter_faq/insurance_cover_cost_humpapillomavirus_(hpv)_vaccine:
-  - text: "Most insurance plans cover routine vaccines, which means that if you're in the recommended age group, your insurance should pay for the vaccine. Check with your insurance company just to be sure. If your family doesn't have health insurance or you're on Medicaid, you should be able to get the HPV vaccine for free through the Vaccines for Children (VFC) program."
-
-  utter_faq/diseases_tdap_vaccine_protect_against:
-  - text: "Tdap vaccination offers the best prevention against pertussis, tetanus, and diphtheria. Tdap stands for tetanus and diphtheria toxoids with acellular pertussis."
-
-  utter_faq/pertussis:
-  - text: "Pertussis, or whooping cough, is an extremely contagious respiratory infection that can lead to severe breathing problems, especially in infants. Pertussis first appears like an ordinary cold, but then causes intense, uncontrollable coughing spells. You'll hear a whoop noise when you try to take a breath after coughing."
-
-  utter_faq/signs_severe_allergic_reaction_influenzvaccine:
-  - text: "Although it's rare, someone may have a severe allergic reaction to an ingredient in the vaccine. Most of the time, such reactions occur within a few minutes to a few hours of receiving the vaccine. The following can be signs of a severe allergic reaction:Behavior changesBreathing difficulty, including wheezingDizzinessHoarse voiceHigh feverHivesPale skinRapid heart beatWeaknessSeek immediate medical care if you notice any of these signs after receiving the influenza vaccine."
-
-  utter_faq/side_effects_risks_tdap_td_vaccine:
-  - text: "Like all medicines, vaccines can have side effects. However, the chance of a life-threatening reaction is small. The CDC says the dangers of developing pertussis, tetanus, or diphtheria far outweigh the risks of vaccination."
-
-  utter_faq/should_not_get_tdap_vaccine:
-  - text: "You should not get the Tdap vaccine if you have had:A serious allergic reaction to any of the vaccine ingredients in the pastA coma or seizures within a week of receiving childhood vaccinations for pertussis (such as DTaP), unless the vaccine was not the cause; Td can be used in these cases."
-
-  utter_faq/should_get_tdap_vaccine:
-  - text: "You may be given the Tdap vaccine if you have a severe cut or burn and have never received a dose before. Severe cuts or burns raise your risk of getting tetanus.The Tdap vaccine can be given any time of the year. Only one shot is needed. It may be given with other vaccinations. Tdap can be given regardless of the interval since the last Td vaccine was given.The Tdap vaccine can be used safely for those ages 65 and over, according to 2013 CDC recommendations."
-
-  utter_faq/adults_should_get_tdap_vaccine:
-  - text: "The CDC recommends the Tdap vaccine for all adults ages 19 and older who have never received the vaccine, especially:Health care workersCaregivers of infants under 1 year oldPregnant women in their third trimester, even if they have previously received Tdap vaccineNew mothers who have never received the TdapPeople who travel to countries where pertussis is common"
-
-  utter_faq/humpapillomavirus_(hpv):
-  - text: "Human papillomavirus (HPV) is the virus that causes cervical cancer in women and genital warts in men and women. The HPV vaccine effectively prevents infection with the HPV types responsible for most cervical cancers and can also prevent genital warts. HPV vaccination is most effective during childhood or adolescence, but adults can also benefit from the HPV vaccine."
-
-  utter_faq/humpapillomavirus_(hpv):
-  - text: "HPV stands for human papillomavirus. It's a virus that can be transmitted through sexual contact. During intercourse or oral sex, HPV can make its way into the genitals, mouth, or throat and cause infection.Sexually transmitted HPV comes in more than 40 different varieties. The type of the virus you get determines what effects it has on your body. Certain types of HPV cause genital warts. Other HPV types can make cells turn cancerous."
-
-  utter_faq/symptoms_humpapillomavirus_(hpv):
-  - text: "Human papillomavirus is spread through sexual contact. Some types of HPV cause genital warts. Others can give you cancer. When you catch HPV, you won’t have sore throat, fever, or other signs that you’re infected. Most people clear the infection on their own. In fact, you might have absolutely no idea you've been infected until you develop genital warts or have an abnormal Pap test."
-
-  utter_faq/severe_side_effects_humpapillomavirus_(hpv)_vaccine:
-  - text: "Severe side effects, or adverse events, are uncommonly reported and have included:Blood clotsSeizuresGuillain-Barré syndromeChronic inflammatory demyelinating polyneuropathyMylgic encephalomyelitis/chronic fatigue syndromeDeathGovernment, academic, and other public health investigators could not identify the HPV vaccine as the cause of any severe adverse event. There were 117 deaths as of September 2015, none of which could be directly tied to the HPV vaccine. Public health investigators concluded that the HPV vaccine was unlikely to cause these events. Such events occur at a certain rate in any group of tens of millions of people. The vaccination before each adverse event seemed to be a simple coincidence."
-
-  utter_faq/ingredients_humpapillomavirus_(hpv)_vaccine:
-  - text: "The HPV vaccine contains no viruses and is not made from human papillomavirus. The active ingredients in the HPV vaccine are proteins that are similar to those found in the human papillomavirus. Genetically modified bacteria produce the proteins, which are then purified and mixed into a sterile, water-based solution."
-
-  utter_faq/need_thone_tdap_vaccine:
-  - text: "You'll only get a Tdap shot once during your lifetime. However, you may need routine booster shots of the Td vaccine every 10 years to adequately protect you against tetanus and diphtheria."
-
-  utter_faq/should_talk_doctsee_it's_ok_get_tdap_vaccine:
-  - text: "Talk to your doctor about whether the Tdap or Td vaccine is right for you if you have had:Epilepsy or another nervous system problemGuillain-Barré syndrome (GBS)A history of severe swelling or pain after getting a pertussis, tetanus, or diphtheria vaccination in the pastIf you are moderately to severely ill (your doctor may recommend waiting to get the shot until after you recover)"
-
-  utter_faq/hfound_in_clinical_trials_tdap_vaccine:
-  - text: "During clinical trials of the Tdap vaccine, two adults developed temporary nervous system problems. It's unknown whether this was due to the vaccine or not. In rare cases, vaccination with Tdap or Td has led to extreme swelling of the arm where the shot was given."
-
-  utter_faq/common_humpapillomavirus_(hpv):
-  - text: "HPV infection is extremely common; most sexually active people will be infected with HPV at some point in life. HPV infection usually causes no symptoms, but can cause genital warts and anal cancer in both women and men. HPV can also cause throat cancer.In women, HPV infection can cause cells in the cervix to grow abnormally. In a small fraction of women, these HPV-induced changes will develop into cervical cancer. About 12,000 women are diagnosed with cervical cancer each year and about 4,000 women die from the condition."
-
-  utter_faq/tdap_td_vaccine:
-  - text: "Tdap is a combination vaccine that protects against three potentially life-threatening bacterial diseases: tetanus, diphtheria, and pertussis (whooping cough). Td is a booster vaccine for tetanus and diphtheria. It does not protect against pertussis."
-
-  utter_faq/side_effects_td_vaccine:
-  - text: "Mild side effects of the Td vaacine may include:Pain, redness, or swelling in the arm where the shot was givenMild feverHeadacheIn some people, these side effects may be more intense. They may temporarily interfere with daily activities. Severe swelling of the arm has been reported in three out of 100 people receiving either Tdap or Td. About one in 250 adults who receive the Tdap vaccine develop a fever of 102°F or higher."
-
-  utter_faq/cadults_severe_allergic_reactions_tdap_td_vaccines:
-  - text: "Although it's rare, someone may have a severe allergic reaction to an ingredient in the Tdap or Td vaccine. This generally happens in fewer than one in a million doses. Most of the time, such reactions occur within a few minutes of receiving the vaccine."
-
-  utter_faq/mild_side_effects_tdap_vaccine:
-  - text: "Mild side effects of Tdap may include:Pain, redness, or swelling in the arm where the shot was givenMild feverHeadacheTirednessStomach upset, including nausea, vomiting, or diarrheaMuscle aches and painsSwollen glands"
-
-  utter_faq/diphtheria:
-  - text: "Diphtheria is a very contagious infection that makes it difficult to breathe. In severe cases, it can cause heart and nerve damage."
-
-  utter_faq/common_pertussis:
-  - text: "Pertussis is the only vaccine-preventable disease that continues to rise in the U.S. Before 2005, only young children could receive the pertussis vaccine. Waning immunity and inadequate vaccination -- many parents choose not to vaccinate their children -- have led to a resurgence of the disease in the U.S. in recent years. Outbreaks of pertussis among adolescents and adults have been reported in several states."
 
   utter_faq/cmake_own_saline_solution_fnetpot:
   - text: "To make your own saline mixture, mix 3 teaspoons of salt with 1 teaspoon of baking soda and store in a sterile airtight container. To use, combine about 8 ounces of lukewarm water (distilled, sterile or previously boiled) with 1 teaspoon of the mixture. Be sure to use canning or pickling salt that has no preservatives, iodide, or other additives that can irritate your sinuses.Put the mixture into a clean Neti pot. Tilt your head over your sink at a 45-degree angle. Place the spout into your top nostril and gently pour the solution in. The saline water will flow through your nasal cavity into the other nostril and out. Blow your nose to get rid of remaining water. Repeat the steps on your other nostril."
@@ -483,7 +414,7 @@ responses:
   - text: "You need a prescription from your doctor, but breathing treatments are often done at your doctor’s office.Portable nebulizers usually cost a little more than home nebulizers. Both are usually covered under the durable medical equipment portion of health insurance policies. But most insurance companies will require you to work with a specified durable medical equipment supplier."
 
   utter_faq/nebulizer:
-  - text: "A nebulizer changes medication from a liquid to a mist so that you can inhale it more easily into your lungs. Nebulizers come in home (tabletop) and portable models.The devices are a very good way to give asthma medications to infants and small children and to anyone who has trouble using an asthma inhaler. It's also convenient to use a nebulizer when you need a large dose of an inhaled medication.Nebulized therapy is often called a breathing treatment.""
+  - text: "A nebulizer changes medication from a liquid to a mist so that you can inhale it more easily into your lungs. Nebulizers come in home (tabletop) and portable models.The devices are a very good way to give asthma medications to infants and small children and to anyone who has trouble using an asthma inhaler. It's also convenient to use a nebulizer when you need a large dose of an inhaled medication.Nebulized therapy is often called a breathing treatment. "
 
   utter_faq/medications_chelp_treating_eosinophilic_asthma:
   - text: "Usually, you need to take corticosteroid pills, which can have more side effects than an inhaler. Several biologics have been found to be effective in reducing the frequency of eosinophilic asthma attacks. These include:Benralizumab (Fasenra)Mepolizumab (Nucala)Reslizumab (Cinqair)"
@@ -619,18 +550,6 @@ responses:
 
   utter_faq/ferber_method_work_fmost_parents_in_terms_getting_basleep_through_night:
   - text: "If it's difficult for you stay away from your baby when they cry, going with this method may not be the best choice. Studies show that, even if parents make it through the first night or two, they usually find that enforcing sleep this way is too stressful. Many parents were not able to ignore their babies long enough or consistently enough for them to stop crying and eventually fall asleep on their own."
-
-  utter_faq/congenital_melanocytosin_newborns:
-  - text: "Congenital melanocytosis, previously called Mongolian spots, is a common condition. The spots are flat, gray-blue in color (almost looking like a bruise), and can be small or large. They are caused by some pigment that didn't make it to the top layer when baby's skin was being formed. They are harmless and usually fade away by school age."
-
-  utter_faq/cradle_cap_(seborrhea)_usually_sup_in_babies:
-  - text: "Cradle cap (seborrhea) often shows up at 1-2 months of age. Greasy, yellowish crusts appear on the scalp and may include a red, irritating rash on the face, behind the ears, on the neck, and even in the armpits. Your doctor will tell you how to best treat this common condition, depending on your baby's symptoms."
-
-  utter_faq/dry,_peeling_skin_normal_in_newborns:
-  - text: "Almost all babies can have some dry, peeling skin. It can be especially noticeable in babies born a little late. The underlying skin is perfectly normal, soft, and moist."
-
-  utter_faq/ferber_method_sleep_training:
-  - text: "The Ferber Method is also known as Progressive Watching or Graduated Extinction. The goal is to teach your baby how to sleep on their own and put themselves back to sleep if they wake up during the night. Richard Ferber, MD, director of the Center for Pediatric Sleep Disorders at Children's Hospital Boston, developed this method. He advises parents not to start this training until their baby is at least 5 or 6 months old. Here’s an overview of how it’s done:Put your baby in their crib -- drowsy, but awake. Once you've finished their bedtime routine, leave the room.If your baby cries, wait a few minutes before you check on them. The amount of time you wait depends on you and your baby. You might start waiting somewhere between 1 and 5 minutes.When you re-enter your baby’s room, try to console them. But do not pick them up and do not stay for more than 2-3 minutes, even if they are still crying when you leave. Seeing your face will be enough to assure your baby you're close by so they can eventually fall asleep on their own.If they continue crying, gradually increase the amount of time you wait before going in to check on them again. For instance, if you wait 3 minutes the first time, wait 5 minutes the second time, and 10 minutes each time after that.The next night, wait 5 minutes the first time, 10 minutes the second time, and 12 minutes each time after that.Adopting this method might be difficult during the first few nights. But you’ll likely see improvement in your baby's sleep pattern by day 3 or 4. Most parents see an improvement within a week."
 
   utter_faq/should_know_before_trying_ferber_method_sleep_training_baby:
   - text: "If you want to try the Ferber Method, make sure you're well rested before the first night of sleep training. For the first nights especially, you'll spend a lot of time listening for your baby's cries, checking your watch, and entering and exiting their room."
@@ -768,7 +687,7 @@ responses:
   - text: "Psychotherapy, or talk therapy, is an important part of treatment for bipolar disorder. During therapy, you can discuss feelings, thoughts, and behaviors that cause you problems. Talk therapy can help you understand and hopefully master any problems that hurt your ability to function well in your life and career. It also helps you stay on your medication. It can help you maintain a positive self-image."
 
   utter_faq/miss_dose_lithium:
-  - text: "If you miss a dose, doctors and pharmacists usually recommend taking it as soon as you remember it -- unless the next scheduled dose is within 2 hours (or 6 hours for slow-release forms). If so, they usually recommend skipping the missed dose and resuming the usual dosing schedule. Don’t double-up.""
+  - text: "If you miss a dose, doctors and pharmacists usually recommend taking it as soon as you remember it -- unless the next scheduled dose is within 2 hours (or 6 hours for slow-release forms). If so, they usually recommend skipping the missed dose and resuming the usual dosing schedule. Don’t double-up. "
 
   utter_faq/treatments_get_i'm_hospitalized_fbipolar_disorder:
   - text: "If your mania is severe, you may need to stay in a hospital until your symptoms are under control. Electroconvulsive therapy (ECT) may also be something your doctor considers.Your doctor may change your medicine dose, or add or subtract medicine.  For instance, they may stop antidepressants, or add an antipsychotic or another drug to lessen your symptoms.You may also find that psychological therapy and a well-ordered daily routine help, along with your medicine."
@@ -1127,9 +1046,6 @@ responses:
   utter_faq/complete_blood_count_used_diagnose_polycythemivera:
   - text: "Your doctor takes a sample of your blood and sends it to a lab, where a machine counts the number of red blood cells, white blood cells, and platelets. An unusually high number of any of these could be a sign of polycythemia vera."
 
-  utter_faq/phlebotoused_trepolycythemivera:
-  - text: "Phlebotomy is often the first treatment for polycythemia vera. In this therapy, your doctor removes blood from your vein. It's a lot like donating blood. The goal is to lower the number of your blood cells. After it's done, your blood will be thinner and flow better. You'll usually feel better, too. Some symptoms will get better, such as headaches or dizziness.Your doctor will decide how often you need phlebotomy. For some people, it's all they need for many years."
-
   utter_faq/polycythemiverlead_othealth_problems:
   - text: "Polycythemia vera can lead to other issues. But your doctor will work to avoid those problems. Blood clots are the most serious concern because they can cause a stroke, heart attack, or other life-threatening problems, such as a DVT (blood clot in your legs) or a pulmonary embolism (a blood clot that travels to your lungs). Clots can also make your spleen and liver larger than normal, giving you sharp pains in your belly. It’s rare, but some people with PV get leukemia or another bone marrow illness called myelofibrosis."
 
@@ -1383,7 +1299,7 @@ responses:
   - text: "Cholesterol, a waxy substance, is a type of fat your body makes. It can also come from what you eat.Foods that have cholesterol, saturated fat, and trans fats can raise your blood cholesterol level. These include:CheeseEgg yolksFried and processed foodsIce creamPastriesRed meat"
 
   utter_faq/borderline_high_cholesterol:
-  - text: "Has your doctor told you that you have borderline high cholesterol? That means your cholesterol level is above normal, but not quite in the high range yet.You have borderline high cholesterol if your total cholesterol is between 200 and 239 milligrams per deciliter (mg/dL).Your doctor will also consider other things, like how much of your total cholesterol is LDL ("bad") cholesterol and how much of it is HDL ("good") cholesterol."
+  - text: "Has your doctor told you that you have borderline high cholesterol? That means your cholesterol level is above normal, but not quite in the high range yet.You have borderline high cholesterol if your total cholesterol is between 200 and 239 milligrams per deciliter (mg/dL).Your doctor will also consider other things, like how much of your total cholesterol is LDL ( bad ) cholesterol and how much of it is HDL ( good ) cholesterol."
 
   utter_faq/symptoms_high_cholesterol:
   - text: "High cholesterol does not have any symptoms. So you can be completely unaware that your cholesterol levels are getting too high. That’s why it’s important to find out what your cholesterol numbers are. If the level is too high, lowering it will lessen your risk for developing heart disease. And if you already have heart disease, lowering cholesterol can reduce your chance of a heart attack or of dying from heart disease."
@@ -1791,7 +1707,7 @@ responses:
   - text: "Yes. But you'll probably find it flat or bland tasting. That's because it's stripped of important minerals like calcium, sodium, and magnesium that give tap water its familiar flavor."
 
   utter_faq/fat-free,_low-fat,_light,_reduced-fmean:
-  - text: "Here's what those terms mean:"Fat-free foods must have less than 0.5 gram of fat per serving."Low-fat foods must have 3 grams of fat or less per serving."Reduced-fat foods must have at least 25% less fat than regular versions of those foods."Light foods must have either 1/3 fewer calories or 50% less fat."
+  - text: "Here's what those terms mean: Fat-free foods must have less than 0.5 gram of fat per serving. Low-fat foods must have 3 grams of fat or less per serving. Reduced-fat foods must have at least 25% less fat than regular versions of those foods. Light foods must have either 1/3 fewer calories or 50% less fat."
 
   utter_faq/why_people_take_ashwagandha:
   - text: "There's some early evidence that ashwagandha affects the immune system and helps reduce swelling., but the practical benefits and risks for people aren't clear yet.One study found that a compound containing ashwagandha helped with osteoarthritis symptoms. Ashwagandha also might help lower blood sugar in people with type 2 diabetes and lower high cholesterol. Since ashwagandha has sedative effects, it could help ease anxiety and stress."
@@ -1852,9 +1768,6 @@ responses:
 
   utter_faq/should_know_about_getting_extrpotassium_trehypokalemia:
   - text: "To treat low levels of potassium in your blood (hypokalemia), you can get more potassium by taking supplements. Most of these you can take by mouth.In some cases, you may need to get your potassium by IV. For example, if:Your potassium level is dangerously lowSupplements don’t raise your potassium levelsYour low potassium levels cause abnormal heart rhythms"
-
-  utter_faq/peptic_ulcer_diagnosed:
-  - text: "A peptic ulcer is a sore on the inside of your stomach or at the top of your small intestine. It can cause repeated burning pain.Your doctor will examine you and ask about your symptoms. Next, they may:Take samples of your blood, poop, or breath for tests to check for signs of the H. pylori bacteria, which can cause peptic ulcers.Use a long, flexible tube called an endoscope to look down your throat and into your stomach for signs of an ulcer. (You’ll be given medicine to make you sleepy.) An endoscope can also take a small sample of tissue from an ulcer that can be tested in a lab.Have you drink a milky liquid called barium before they take X-rays of your stomach. This drink coats your digestive system and makes problems like ulcers show up more clearly."
 
   utter_faq/peptic_ulcer:
   - text: "You have a peptic ulcer if you get open sores in the lining of your stomach or the upper part of the small intestine. That happens when your stomach acids etch away your digestive tract’s protective layer of mucus. You may have no symptoms, or you may feel discomfort or burning pain. Peptic ulcers can lead to internal bleeding, which sometimes can mean you’ll need blood transfusions in the hospital."
@@ -2686,9 +2599,6 @@ responses:
 
   utter_faq/happens_don't_genital_warts_humpapillomavirus_(hpv)_treated:
   - text: "Unfortunately, despite treatment, having high-risk HPV can raise your risk of cervical, rectal, and penile cancer. But not all forms of the virus are linked to these cancers. If you have genital warts, be sure you get annual check-ups to screen for cancer."
-
-  utter_faq/humpapillomavirus_(hpv):
-  - text: "HPV is a virus that's very common. Many people have it and never have health problems from it. But some strains of the virus can cause cervical, rectal, vulvar, vaginal, and penile cancer. According to the CDC, at least 50% of sexually active men and women will get a genital HPV infection at some point in their lives."
 
   utter_faq/genital_warts_look_like:
   - text: "Genital warts look like small flesh-colored, pink or red growths in or around the sex organs. The warts may look similar to the small parts of a cauliflower or they may be very tiny and hard to see. They often appear in clusters of three or four, and may grow and spread rapidly. They usually aren't painful, although they may cause mild pain, bleeding, and itching."
@@ -3957,7 +3867,7 @@ responses:
   - text: "If you've had a lung transplant or a stem cell transplant, you may get this condition if your body tries to reject the new organ. It's the primary cause of death in people who get lung transplants."
 
   utter_faq/sootchemicals_ccause_popcorn_lung:
-  - text: "Other chemicals that can cause popcorn lung include:Metal oxide fumes, a common byproduct of weldingFormaldehyde, a cancer-causing chemical used in some glues and building materialsSulfur dioxide, a pollutant released by burning fossil fuelsAmmoniaChlorineNitrogen oxidesHydrochloric acidSulfur mustard, a chemical weapon known as mustard gas""
+  - text: "Other chemicals that can cause popcorn lung include:Metal oxide fumes, a common byproduct of weldingFormaldehyde, a cancer-causing chemical used in some glues and building materialsSulfur dioxide, a pollutant released by burning fossil fuelsAmmoniaChlorineNitrogen oxidesHydrochloric acidSulfur mustard, a chemical weapon known as mustard gas "
 
   utter_faq/bronchioles:
   - text: "Inside your lungs, tubes split again and again, like the branches of a tree. The smallest of those branches are called bronchioles, and they end in tiny air sacs called alveoli. The alveoli are where the oxygen is picked up by your blood."
@@ -3972,7 +3882,7 @@ responses:
   - text: "Popcorn lung causes lasting damage, so it's important to catch it early. If you do, you might be able to slow it down or keep it from getting worse:If it was caused by breathing in harmful chemicals, you'll want to stay away from them. You might need to wear protective gear at work or possibly change jobs.Your doctor may give you antibiotics or steroids to ease the inflammation that can scar your airways.Drugs that slow down your immune system may help protect your bronchioles from more damage.Your doctor probably will give you medicine to help with your cough and open up your airways, and maybe oxygen to help make it easier to breathe."
 
   utter_faq/popcorn_lung:
-  - text: ""Popcorn lung is the nickname for bronchiolitis obliterans. That's a condition that damages your lungs' smallest airways and makes you cough and feel short of breath. It's sometimes caused by breathing in a chemical used to flavor microwave popcorn. But other chemicals or lung illnesses can also cause popcorn lung."
+  - text: " Popcorn lung is the nickname for bronchiolitis obliterans. That's a condition that damages your lungs' smallest airways and makes you cough and feel short of breath. It's sometimes caused by breathing in a chemical used to flavor microwave popcorn. But other chemicals or lung illnesses can also cause popcorn lung."
 
   utter_faq/happens_someone_hpopcorn_lung:
   - text: "When you have popcorn lung, tiny air passages get irritated and inflamed. That leads to scarring that makes them narrower. That makes it harder for you to get enough air."
@@ -4096,9 +4006,6 @@ responses:
 
   utter_faq/medications_trewet_macular_degeneration:
   - text: "Medications, such as Avastin, Eylea, Lucentis, and Macugen have become the preferred treatments for acute wet macular degeneration, helping to prevent the growth of leaky blood vessels in your eye. Lucentis is given once every month, although some patients may need treatment only once every three months. Macugen is given every six weeks. Eylea is given once every two months after three once-monthly injections. Avastin is not strictly an eye medication, but it is used off-label as one of the most common treatments for wet macular degeneration."
-
-  utter_faq/vitamins_trewet_macular_degeneration:
-  - text: "The makeup of vision supplements may change with the completion of the AREDS2 study. This study sought to see if adding other vitamins and mineral to the supplement would improve results of the Age-Related Eye Disease Study (AREDS). The first addition was omega-3 fatty acids (fish oil), and the second was a combination of two carotenoids, lutein and zeaxanthin, which are found in leafy green vegetables and highly colored fruits and vegetables. The research showed:Beta-carotene did not reduce the risk of progression of age-related macular degeneration (AMD).Adding omega-3 to the AREDS formula did not reduce risk of progression of AMD.The AREDS formula was still found to be protective with less zinc added.People that took a formula with lutein and zeaxanthin and who may not have been taking enough in their diet showed further improve with the new AREDS formula.In general, people who took lutein and zeaxanthin instead of beta-carotene had more of a benefit."
 
   utter_faq/tests_used_diagnose_age-related_macular_degeneration:
   - text: "If your doctor thinks you have age-related macular degeneration, they may want you to have one or both of these exams:Optical coherence tomography: It's a special photograph that shows a magnified 3D image of your retina. This method helps your doctor see if your retinal layers are distorted. Your doctor can also see if swelling is getting better or worse if you had treatment with injections or laser.Fluorescein angiography: In this procedure, your doctor injects a dye into a vein in your arm. They take photos as the dye reaches your eye and flows through the blood vessels of the retina. The images will show new vessels or vessels that are leaking fluid or blood in the macula -- a small area at the center of your retina."
@@ -5240,9 +5147,6 @@ responses:
   utter_faq/cuse_biologics_trerheumatoid_arthritis:
   - text: "There are a couple of ways to use biologics. You might give yourself a shot at home or get them through an IV while you're at the doctor's office. You might need to combine biologics with methotrexate to get better results."
 
-  utter_faq/biologics_used_trerheumatoid_arthritis:
-  - text: "If your disease is more severe, or if traditional disease-modifying anti-rheumatic drugs don't help, your doctor might have you try a type called a biologic. These strong drugs target specific substances in your immune system that cause inflammation."
-
   utter_faq/biologics_usually_combined_disease-modifying_anti-rheumatic_drugs_trerheumatoid_arthritis:
   - text: "Doctors often recommend that you combine a biologic with a disease-modifying anti-rheumatic drug."
 
@@ -5682,13 +5586,13 @@ responses:
   - text: "Hemorrhagic strokes happen when there's bleeding in your brain that damages nearby cells. The most common causes are:High blood pressureInjuryBleeding disordersCocaine useAbnormal blood vessels (AVMs)Aneurysm (a weak area in a blood vessel that breaks open)"
 
   utter_faq/hemorrhagic_stroke_symptoms:
-  - text: "Hemorrhagic stroke symptoms usually happen slowly over minutes or a few hours:Some things that can happen:Intense headache that some people describe as the worst headache they've ever had"ConfusionNausea or throwing upSensitivity to lightProblems with visionPassing out"
+  - text: "Hemorrhagic stroke symptoms usually happen slowly over minutes or a few hours:Some things that can happen:Intense headache that some people describe as the worst headache they've ever had ConfusionNausea or throwing upSensitivity to lightProblems with visionPassing out"
 
   utter_faq/different_types_hemorrhagic_stroke:
   - text: "Your doctor may tell you about two types of hemorrhagic stroke that are based on where the bleeding happens.If they say you had a subarachnoid hemorrhage, that means it happened in the area between your brain and skull. But if they say it was an intracerebral hemorrhage, your bleeding was inside the brain."
 
   utter_faq/complications_ischemic_stroke:
-  - text: "If you don't get treatment, you can have trouble like:Fluid buildup, swelling, and bleeding in your brainSeizuresProblems with memory and understandingIschemic strokes also include something called a "mini stroke" or a TIA (transient ischemic attack). This is a temporary blockage in blood flow to your brain. The symptoms usually last for just a few minutes or may go away in 24 hours."
+  - text: "If you don't get treatment, you can have trouble like:Fluid buildup, swelling, and bleeding in your brainSeizuresProblems with memory and understandingIschemic strokes also include something called a  mini stroke  or a TIA (transient ischemic attack). This is a temporary blockage in blood flow to your brain. The symptoms usually last for just a few minutes or may go away in 24 hours."
 
   utter_faq/drugs_used_break_up_blood_clots:
   - text: "The most commonly used clot-busting drugs -- also known as thrombolytic agents -- include:Eminase (anistreplase)Retavase (reteplase)Streptase (streptokinase, kabikinase)t-PA (class of drugs that includes Activase)TNKase (tenecteplase)Abbokinase, Kinlytic (rokinase)"
@@ -5927,9 +5831,6 @@ responses:
   utter_faq/diseases_tdap_vaccine_protect_against:
   - text: "Tdap vaccination offers the best prevention against pertussis, tetanus, and diphtheria. Tdap stands for tetanus and diphtheria toxoids with acellular pertussis."
 
-  utter_faq/humpapillomavirus_(hpv):
-  - text: "Human papillomavirus (HPV) is the virus that causes cervical cancer in women and genital warts in men and women. The HPV vaccine effectively prevents infection with the HPV types responsible for most cervical cancers and can also prevent genital warts. HPV vaccination is most effective during childhood or adolescence, but adults can also benefit from the HPV vaccine."
-
   utter_faq/symptoms_humpapillomavirus_(hpv):
   - text: "Human papillomavirus is spread through sexual contact. Some types of HPV cause genital warts. Others can give you cancer. When you catch HPV, you won’t have sore throat, fever, or other signs that you’re infected. Most people clear the infection on their own. In fact, you might have absolutely no idea you've been infected until you develop genital warts or have an abnormal Pap test."
 
@@ -6039,7 +5940,7 @@ responses:
   - text: "If you don't lose 4% of your weight after 16 weeks of taking Saxenda, you should stop taking it, because it's unlikely to work for you, according to the FDA."
 
   utter_faq/examples_good_goals_flong-term_weight_loss:
-  - text: ""Exercise more is a wonderful goal, but it's not specific. Walk 5 miles every day is specific and measurable. But is it realistic if you're just starting out?"Walk 30 minutes every day is better, but what happens if work or weather interferes? Walk 30 minutes for 5 days each week is specific and realistic."
+  - text: " Exercise more is a wonderful goal, but it's not specific. Walk 5 miles every day is specific and measurable. But is it realistic if you're just starting out? Walk 30 minutes every day is better, but what happens if work or weather interferes? Walk 30 minutes for 5 days each week is specific and realistic."
 
   utter_faq/should_youe_diet_like_while_taking_all(orlistat):
   - text: "It’s important to follow a low-calorie, low-fat diet while taking this medication. If you eat a lot of fatty foods, even just one high-fat meal like a greasy burger, you’re more likely to have uncomfortable digestive side effects. Choose lean cuts of meat and low-fat dairy products. In general, no more than 30% of your calories at each meal should come from fat.You’ll also need to take a daily multivitamin that contains vitamins A, D, E, K, and beta carotene while on this drug. The drug's fat-blocking properties also make it more difficult for your body to absorb fat-soluble vitamins. Do not take vitamins and Alli at the same time of the day."
@@ -6060,7 +5961,7 @@ responses:
   - text: "If not treated, lymphedema can lead to problems such as infections, delayed wound healing, development of scar-like tissue called fibrosis, and hardened skin in the legs.Unlike obesity, it targets legs, thighs and sometimes arms. Unlike lymphedema, lipedema doesn't start in the lower legs (feet and ankles) but the upper legs, and it isn't related to prior surgery. It usually affects both legs."
 
   utter_faq/soexamples_vaginal_rejuvenation_designer_vaginprocedures:
-  - text: "Here are some examples of vaginal rejuvenation and designer vagina procedures:"Revirgination. A surgery called a hymenoplasty repairs the hymen to mimic its original, virginal state, before a woman was sexually active.Clitoral unhooding. This procedure removes the tissue that normally covers the clitoris.G-spot amplification. This involves injecting collagen into the front wall of the vagina, theoretically to increase pleasure."
+  - text: "Here are some examples of vaginal rejuvenation and designer vagina procedures: Revirgination. A surgery called a hymenoplasty repairs the hymen to mimic its original, virginal state, before a woman was sexually active.Clitoral unhooding. This procedure removes the tissue that normally covers the clitoris.G-spot amplification. This involves injecting collagen into the front wall of the vagina, theoretically to increase pleasure."
 
   utter_faq/symptoms_lipedema:
   - text: "The typical symptoms are a large lower half and column-like legs, which are often tender and bruise easily. For example, the top half of your body may be a size 8, but the bottom half may be a size 16."
