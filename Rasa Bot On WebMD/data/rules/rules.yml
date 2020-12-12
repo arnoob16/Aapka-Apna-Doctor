@@ -1,0 +1,21 @@
+version: "2.0"
+
+rules:
+
+- rule: Say goodbye anytime the user says goodbye
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+
+- rule: Say 'I am a bot' anytime the user challenges
+  steps:
+  - intent: bot_challenge
+  - action: utter_iamabot
+ 
+- rule: Say 'How can I help you'
+  steps:
+  - action: utter_any_help
+
+- rule: Say 'ask your question'
+  steps:
+  - action: utter_ask

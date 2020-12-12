@@ -1,0 +1,105 @@
+version: "2.0"
+
+stories:
+
+# - story: happy path
+#   steps:
+#   - intent: greet
+#   - action: utter_greet
+#   - intent: mood_great
+#   - action: utter_happy
+
+# - story: sad path 1
+#   steps:
+#   - intent: greet
+#   - action: utter_greet
+#   - intent: mood_unhappy
+#   - action: utter_cheer_up
+#   - action: utter_did_that_help
+#   - intent: affirm
+#   - action: utter_happy
+
+# - story: sad path 2
+#   steps:
+#   - intent: greet
+#   - action: utter_greet
+#   - intent: mood_unhappy
+#   - action: utter_cheer_up
+#   - action: utter_did_that_help
+#   - intent: deny
+#   - action: utter_goodbye
+
+# - story: allergy path
+#   steps:
+#   - intent: greet
+#   - action: utter_greet
+#   - intent: Faq_Allergies/find_out_allergies
+#   - action: utter_Faq_Allergies/find_out_allergies
+#   - intent: Faq_Allergies/treatment_sinusitis
+#     entities:
+#     - allergy : sinusitis
+#   - action : utter_Faq_Allergies/treatment_sinusitis
+#   - action : action_know_something_more
+#   - slot_was_set:
+#     - answer: true
+#   - action: utter_mood_great
+
+
+# - story: allergy path
+#   steps:
+#   - intent: greet
+#   - action: utter_greet
+#   - intent: Faq_Allergies/find_out_allergies
+#   - action: utter_Faq_Allergies/find_out_allergies
+#   - intent: Faq_Allergies/treatment_sinusitis
+#     entities:
+#     - allergy : sinusitis
+#   - action : utter_Faq_Allergies/treatment_sinusitis
+#   - action : action_know_something_more
+#   - slot_was_set:
+#     - answer: false
+#     - action : utter_good_bye
+
+- story: Faq path_ask_1
+  steps:
+   - intent: greet
+   - action: utter_greet
+   - intent: mood_great
+   - action: utter_happy
+   - action: utter_any_help
+   - intent: affirm
+   - action: utter_ask
+   - intent: faq
+   - action: utter_faq
+
+- story: Faq path_ask_2
+  steps:
+   - intent: greet
+   - action: utter_greet
+   - intent: mood_unhappy
+   - action: utter_cheer_up
+   - action: utter_any_help
+   - intent: affirm
+   - action: utter_ask
+   - intent: faq
+   - action: utter_faq
+
+- story: Faq path_deny_1
+  steps:
+   - intent: greet
+   - action: utter_greet
+   - intent: mood_great
+   - action: utter_happy
+   - action: utter_any_help
+   - intent: deny
+   - action: utter_goodbye
+
+- story: Faq path_deny_2
+  steps:
+   - intent: greet
+   - action: utter_greet
+   - intent: mood_unhappy
+   - action: utter_cheer_up
+   - action: utter_any_help
+   - intent: deny
+   - action: utter_goodbye

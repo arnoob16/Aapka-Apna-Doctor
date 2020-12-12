@@ -1,0 +1,13 @@
+version: "2.0"
+
+responses:
+  utter_out_of_scope/all_others:
+  - text: "Sorry i don't understand it."
+
+  utter_faq/allergies_q1:
+  - text: "Usually your doctor can diagnose allergies based on your symptoms and triggers. If your reactions are more severe or medication doesn\u2019t help, an allergist (a doctor who specializes in treating allergies) may do a skin test to find out what your triggers are."
+
+  utter_faq/allergies_q2:
+  - text: "Occasionally, if you have chronic sinusitis or acute sinusitis that keeps coming back, an operation may be the best choice. The surgeon can remove blockages and enlarge the sinus passages, which makes it easier for them to drain."
+
+  
