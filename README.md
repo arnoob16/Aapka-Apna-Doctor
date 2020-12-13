@@ -16,7 +16,7 @@
 ## How was it built:
 <img src="https://raw.githubusercontent.com/RasaHQ/rasa-nlu-examples/master/square-logo.svg" height="150px">
 <p>
-<img src="https://img.shields.io/badge/Built%20with%20Python3-%231DA1F2.svg?&style=for-the-badge&logo=Python&logoColor=white&color=E34F26"><a href="#">
+<img src="https://img.shields.io/badge/Built%20with%20Python3-%231DA1F2.svg?&style=for-the-badge&logo=Python&logoColor=white&color=E34F26"><a href="https://t.me/AapkaApnaDoctor_bot">
 <img src="https://img.shields.io/badge/Use%20Now%20on%20Telegram-%231DA1F2.svg?&style=for-the-badge&logo=Telegram&logoColor=white&color=2CA5E0"></a>
 </p>
 
