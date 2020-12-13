@@ -308,3 +308,75 @@ nlu:
 - intent: faq/cdaith_piercings_help_migraines
   examples: |
    -How can daith piercings help with migraines?
+   
+- intent: faq/coronvirus
+  examples: |
+   -What is corona virus
+   
+- intent: faq/covid-19
+  examples: |
+   -What is COVID-19
+
+- intent: faq/symptoms_covid-19
+  examples: |
+   -What are the symptoms of COVID-19
+
+- intent: faq/covid-19_spread
+  examples: |
+   -How does COVID-19 spread
+
+- intent: faq/cvirus_causes_covid-19_transmitted_through_air
+  examples: |
+   -Can the virus that causes COVID-19 be transmitted through the air?
+
+- intent: faq/ccovid-19_caught_person_hsymptoms
+  examples: |
+   -Can CoVID-19 be caught from a person who has no symptoms
+
+- intent: faq/ccatch_covid-19_feces_someone_disease
+  examples: |
+   -Can I catch COVID-19 from the feces of someone with the disease
+
+- intent: faq/risk_developing_severe_illness
+  examples: |
+   -Who is at risk of developing severe illness
+
+- intent: faq/antibiotics_effective_in_preventing_treating_covid-19
+  examples: |
+   -Are antibiotics effective in preventing or treating the COVID-19?
+
+- intent: faq/tmedicines_therapies_cprevent_cure_covid-19
+  examples: |
+   -Are there any medicines or therapies that can prevent or cure COVID-19 
+
+- intent: faq/covid-19_sasars
+  examples: |
+   -Is COVID-19 the same as SARS
+
+- intent: faq/should_wear_mask_protect_myself
+  examples: |
+   -Should I wear mask to protect myself
+
+- intent: faq/long_incubation_period_fcovid-19
+  examples: |
+   -How long is the incubation period for COVID-19
+
+- intent: faq/chumans_becoinfected_covid-19_animal_source
+  examples: |
+   -Can humans become infected with the COVID-19 from an animal source
+
+- intent: faq/ccatch_covid-19_pet
+  examples: |
+   -Can I catch COVID-19 from my pet
+
+- intent: faq/long_virus_survive_on_surfaces
+  examples: |
+   -How long does the virus survive on surfaces
+
+- intent: faq/safe_receive_package_arewcovid-19_hreported
+  examples: |
+   -Is it safe to receive a package from any area where COVID-19 has been reported
+
+- intent: faq/tanything_should_not_fcovid-19
+  examples: |
+   -Is there anything I should not do for COVID-19
