@@ -13,15 +13,26 @@
 # from rasa_sdk.executor import CollectingDispatcher
 #
 #
-# class ActionHelloWorld(Action):
-#
+# class ActionSetFaqSlot(Action):
+#     """Returns the chitchat utterance dependent on the intent"""
+
 #     def name(self) -> Text:
-#         return "action_hello_world"
-#
-#     def run(self, dispatcher: CollectingDispatcher,
-#             tracker: Tracker,
-#             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
-#
-#         dispatcher.utter_message(text="Hello World!")
-#
-#         return []
+#         return "action_set_faq_slot"
+
+#     def run(
+#         self,
+#         dispatcher: CollectingDispatcher,
+#         tracker: Tracker,
+#         domain: Dict[Text, Any],
+#     ) -> List[EventType]:
+#         full_intent = (
+#             tracker.latest_message.get("response_selector", {})
+#             .get("faq", {})
+#             .get("full_retrieval_intent")
+#         )
+#         if full_intent:
+#             topic = full_intent.split("/")[1]
+#         else:
+#             topic = None
+
+#         return [SlotSet("faq", topic)]
