@@ -42,7 +42,7 @@
 
 ## Contributors
 
-<style>
+<!--style>
 	.flexbox{
 		display: flex;
 		flex-wrap: wrap;
@@ -54,7 +54,7 @@
 		border: 2px solid #ffa400;
 		margin: 5px;
 	}
-</style>
+</style-->
 
 <div class="flexbox" style="display: flex; flex-wrap: wrap; width: 100%; justify-content: center;">
 
