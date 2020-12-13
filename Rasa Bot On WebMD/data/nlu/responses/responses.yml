@@ -4,63 +4,6 @@ responses:
   utter_out_of_scope/all_others:
   - text: "Sorry i don't understand it."
 
-  utter_faq/cmao_inhibitors_help_adhd:
-  - text: "Monoamine oxidase (MAO) inhibitors are a group of antidepressants that can treat ADHD with some benefit -- but they're rarely used because they sometimes have dangerous side effects and can cause serious problems when you take them with foods and other medications. They may help people if no other medications have worked. Examples include phenelzine (Nardil) or tranylcypromine (Parnate)."
-
-  utter_faq/antidepressants_treadhd:
-  - text: "Antidepressants seem to improve attention span, impulse control, hyperactivity, and aggressiveness. Children and teens who take them are often more willing to take direction and are less disruptive.Most of them work by boosting the levels of brain messenger-chemicals (neurotransmitters), such as norepinephrine, serotonin, and dopamine."
-
-  utter_faq/side_effects_effexfadhd:
-  - text: "Venlafaxine (Effexor) can cause nausea, anxiety, sleep problems, tremor, dry mouth, and sexual problems in adults."
-
-  utter_faq/long_effect_concertlast:
-  - text: "Concerta is the brand name for methylphenidate hydrochloride extended-release tablets. The medicine gets into your system slowly, and the effects can last up to 12 hours. One pill in the morning is meant to help manage your ADHD symptoms through the whole school or work day."
-
-  utter_faq/safe_take_blood_pressure_drugs_stimulants_treadhd:
-  - text: "Combining a stimulant with a blood pressure medication can be risky: Some children taking both stimulants and clonidine HCL have died. It's unclear whether their deaths were due to the combination of drugs.If you take them together, your doctor should watch you closely to help lower your risk of complications. They can screen you for heart rhythm irregularities, check your blood pressure often, and do electrocardiograms.If your doctor thinks that taking these two medications has more possible benefits than risks, it may be a good option for you."
-
-  utter_faq/behaviassessment_system_fchildren:
-  - text: "The Behavior Assessment System for Children (BASC) is a test that looks for things like hyperactivity, aggression, and conduct problems. It also looks for anxiety, depression, attention and learning problems, as well as the lack of certain essential skills."
-
-  utter_faq/vanderbilt_assessment_scale:
-  - text: "The Vanderbilt Assessment Scale is a 55-question assessment tool that reviews symptoms of ADHD. It also looks for other conditions such as conduct disorder, oppositional-defiant disorder, anxiety, and depression."
-
-  utter_faq/challenges_might_adult_adhd_experience:
-  - text: "If you have ADHD, you may have trouble with:AnxietyChronic boredomChronic lateness and forgetfulnessDepressionTrouble concentrating when readingTrouble controlling angerProblems at workImpulsivenessLow tolerance for frustrationLow self-esteemMood swingsPoor organization skillsProcrastinationRelationship problemsSubstance abuse or addictionThese may affect you a lot, or they may not bother you much. They can be problems all of the time or just depend on the situation."
-
-  utter_faq/side_effects_clonidine:
-  - text: "Some side effects of clonidine, or Kapvay, might include:Sleepiness, fatigue, or sedationHeadacheDizzinessSince clonidine can cause drowsiness, make sure you know how it affects you before you drive or use heavy machinery.Rarer and more serious side effects include low blood pressure and sudden changes in heart rhythm."
-
-  utter_faq/similar_ritalin_cocaine:
-  - text: "In large doses -- greater than what is typically prescribed for ADHD -- Ritalin does have effects similar to those of cocaine. However, researchers have found marked differences between the two drugs. One of the factors that leads to addiction and drug abuse is how quickly a drug raises dopamine levels. The faster dopamine levels go up, the greater the potential for abuse. One researcher found that Ritalin takes about an hour to raise dopamine levels in the brain, compared to only seconds with inhaled cocaine. The doses of Ritalin and other stimulants used to treat ADHD tend to be lower and longer-acting, which reduces the risk of addiction. Long-term use of all stimulants can sometimes lead to a phenomenon called tolerance -- that is, higher doses are needed to achieve the same effect of a controlled substance. If and when this happens, a doctor may then be more likely to consider using nonstimulant medicines to treat ADHD."
-
-  utter_faq/adderstimulant,_cmake_sopeople_sleepy:
-  - text: "Adderall boosts your levels of serotonin, norepinephrine, and dopamine. These are neurotransmitters in your brain that calm and relax you so you can focus better. They also affect sleep in different ways. That may be the reason the drug causes drowsiness in some but not others. In studies, 2% to 4% of kids who took the drug had low energy and sleepiness. For adults, it was 6%."
-
-  utter_faq/prioritization_issues_might_adult_adhd_cause:
-  - text: "Often, people with adult ADHD misprioritize, failing to meet big obligations, like a deadline at work, while spending countless hours on something insignificant."
-
-  utter_faq/symptoms_adhd_go_away_age:
-  - text: "Overall, hyperactivity tends to diminish with age. On the other hand, inattention tends to last into adulthood."
-
-  utter_faq/cmen_prevent_yeast_infections:
-  - text: "The best way to stop a yeast infection from happening (or coming back) is to practice good hygiene.Clean and dry your penis each time you shower and after sex. Unscented soaps are best.If your partner has a yeast infection, use a condom during sex.Wear loose cotton underwear. This prevents moisture from building up under your foreskin. If your groin gets too moist, it’s easier for candida fungus to grow there."
-
-  utter_faq/ypubic_hair_change_age:
-  - text: "As testosterone levels fall, pubic hair will thin and may turn gray."
-
-  utter_faq/external_catheter_help_male_incontinence:
-  - text: "Unlike the catheters used at the hospital, external catheters for male incontinence are silicone or latex devices that go over the penis instead of into the urethra. They're usually rolled on like condoms. The urine is sent through a tube into a drainage bag. Some men only use these devices at night. To prevent leaks, it's very important to get the right fit and to follow the instructions from the manufacturer."
-
-  utter_faq/ypenchange_age:
-  - text: "Your penis will change in phases over your lifetime. It mostly depends on your testosterone levels. Somewhere between the ages of 9 and 15, your pituitary gland releases hormones that tell your body to start making testosterone. That starts your puberty. Your testes (testicles), scrotum, penis, and pubic hair all begin to grow. Testosterone levels peak in your late teens to early 20s, and then drop slightly through your 40s. After that, your total testosterone levels may drop only a little."
-
-  utter_faq/ytesticles_change_age:
-  - text: "The small organs inside your scrotum mostly exist to make sperm. As your testosterone levels fall, sperm production slows and they shrink. If you get hormone replacement therapy, your pituitary gland will stop sending signals to your testes to make testosterone, and they will shrink more."
-
-  utter_faq/yscrotum_change_age:
-  - text: "Its job is to manage the temperature of your testes. It’s lined with smooth muscle that contracts and relaxes to pull your testicles close to your body to keep them warm or let them drop away and cool off. As you get older, the muscles don’t work as well, and your scrotum stays in a more slackened position. Combine that with your skin’s natural decline in elasticity, and the sagging gets worse. If you’re over 40, a hydrocele can also make your scrotum sag. It happens when fluid builds up around one or both testicles. Maybe your body makes too much liquid, or perhaps it can’t drain well. It’s generally painless. If you notice swelling or feel any discomfort, see your doctor."
-
   utter_faq/sonohysterography_used_diagnose_postmenopausal_bleeding:
   - text: "Your doctor may use sonohysterography to measure the size of a polyp. They’ll put a saltwater solution inside your uterus to create a clearer ultrasound image."
 
@@ -120,3 +63,116 @@ responses:
 
   utter_faq/should_cdoctabout_symptoms_food_poisoning:
   - text: "You should call a doctor, however, if you or a loved one have:Signs of dehydration, such as dry mouth, little or no urination, dizziness, or sunken eyesAny diarrhea in a newborn or infantInability to hold down liquids without vomitingDiarrhea that lasts longer than 2 days (1 day in a child) or is severeSevere gut pain or vomitingFever of 102°F or higher, or a rectal temperature of 100.4°F in a baby younger than 3 monthsStools that are black, tarry, or bloodyMuscle weaknessTingling in your armsBlurry visionConfusionDiarrhea or flulike illness in pregnant womenJaundice (yellow skin), which can be a sign of hepatitis A"
+
+  utter_faq/initial_symptoms_whooping_cough:
+  - text: "At first, whooping cough has the same symptoms as the average cold:Mild coughingSneezingRunny noseLow fever (below 102 F)You may also have diarrhea early on."
+
+  utter_faq/everyone_whooping_cough_coughing_spells:
+  - text: "Most people with whooping cough have coughing spells, but not everyone does."
+
+  utter_faq/whooping_cough:
+  - text: "Whooping cough (also known as pertussis) is a bacterial infection that gets into your nose and throat. It spreads very easily, but vaccines like DTaP and Tdap can help prevent it in children and adults."
+
+  utter_faq/outlook_whooping_cough_fchildren_adults:
+  - text: "For older children and adults, the outlook is usually very good."
+
+  utter_faq/risks_dehydrations_whooping_cough:
+  - text: "If your coughing spells are so bad that they keep you from drinking enough fluids, you risk dehydration. Call your doctor right away."
+
+  utter_faq/symptoms_whooping_cough_after_7-10_days:
+  - text: "After about 7-10 days, the cough turns into “coughing spells” that end with a whooping sound as the person tries to breathe in air."
+
+  utter_faq/over-the-counter_cough_medicines_work_trewhooping_cough:
+  - text: "Don't use over-the-counter cough medicines, cough suppressants, or expectorants (medicines that make you cough up mucus) to treat whooping cough. They don't work."
+
+  utter_faq/why_heart_race:
+  - text: "Irregular heartbeat is when your heart beats too slow, too fast, or skips beats. The normal heart averages between 60 and 100 beats per minute. When your heart beats faster than this, you have a condition called tachycardia.When your heart races, it’s working too hard. It doesn’t have enough time to fill with blood or pump it to the rest of your body. You might have heart palpitations or chest pain. You may also feel dizzy or faint.If you have heart disease or some types of lung disease, your chances of having tachycardia could be higher than normal. If you were born with an abnormal heart structure, this is called a congenital heart defect, and it might increase your odds as well.Other factors, like fever, dehydration, or drinking too much caffeine, can also make your heart race."
+
+  utter_faq/why_heart_skip_beat:
+  - text: "If your heart’s ever skipped a beat, you’ve had what are called heart palpitations. It’s a type of irregular heartbeat, also called arrhythmia. It might feel like your heart is throbbing, pounding, or fluttering. Or, you simply might not feel well.Think of a palpitation as a “hiccup” for your heart. It beats on schedule, and then hiccup! A brief pause, and you’re back to normal. Until it happens again.Luckily, for most people, these hiccups happen only once in a while. But other people can have dozens of uncomfortable palpitations each day. Some can be so strong they feel like a heart attack."
+
+  utter_faq/cget_heartbeback_normal_heart_palpitations:
+  - text: "When your heart skips beats, it’s a type of irregular heartbeat called heart palpitations. You can’t always prevent them. But you can help head them off with lifestyle changes like avoiding caffeine, getting enough sleep, and quitting smoking.If you think you’re having an attack of palpitations, try these to get your heartbeat back to normal:Breathe deeply. It will help you relax until your palpitations pass.Splash your face with cold water. It stimulates a nerve that controls your heart rate.Don’t panic. Stress and anxiety will make your palpitations worse."
+
+  utter_faq/diabetes_kidney_disease_relate:
+  - text: "Diabetes is the No. 1 cause of kidney failure in the United States. When you have this condition, the level of sugar (or glucose) in your blood is too high.Over time, that extra sugar damages the small blood vessels in your kidneys, hindering their ability to clean your blood. Diabetes can also harm your nerves, which may lead to kidney injury."
+
+  utter_faq/happens_don't_raise_blood_sugar_in_time:
+  - text: "If you don't raise your blood sugar in time, there's a chance you may go into insulin shock, which can be dangerous. Talk to your doctor about whether you need a prescription for a glucagon kit. Glucagon is a hormone you can inject that releases stored glucose into your bloodstream. It can raise your blood sugar if you can't eat or drink."
+
+  utter_faq/should_tell_about_diabetes:
+  - text: "Share it with your family, friends, co-workers, and people you see often. They can help you if you have an emergency. Let them know how to watch for signs of low blood sugar and what they can do. If you carry glucagon, show them how to give you an injection and when to call 911."
+
+  utter_faq/kidneys_involved_in_nephrogenic_diabetes_insipidus:
+  - text: "In nephrogenic diabetes insipidus, the body makes antidiuretic hormone (ADH). But the kidneys can't recognize it at all, or at least not as well as they should. In many cases, the kidneys' ADH sensors are missing or don't work properly. So ADH doesn't have its usual effect. The result: The kidneys don't absorb enough water and send out a lot of very diluted urine."
+
+  utter_faq/side_effects_sulfonylurefdiabetes:
+  - text: "Sulfonylureas include Glipizide (Glucotrol, Glucotrol XL), glimepiride (Amaryl), glyburide (DiaBeta, Glynase PresTab, Micronase). They help your pancreas make more insulin.The most common side effect is low blood sugar. This can make you feel shaky, sweaty, dizzy, and confused. Severe low blood sugar can be life-threatening. To prevent it, eat regularly.Other side effects can be weight gain, dark urine, and stomach upset. Sulfonylureas can also cause skin rashes and adverse reactions to the sun."
+
+  utter_faq/why_type_2_diabetes_bad:
+  - text: "Type 2 diabetes is bad for many reasons. High glucose levels damage nerve and blood vessels, leading to heart disease, stroke, blindness, kidney disease, and gum infections. Advanced type 2 diabetes can result in blindness and the need to amputate limbs that no longer get adequate circulation."
+
+  utter_faq/liraglutide_(victoza):
+  - text: "Liraglutide is a drug that helps your body release more insulin. This helps move glucose from your bloodstream into your cells."
+
+  utter_faq/mvegetables_should_ediabetes:
+  - text: "Eat as many vegetables as you want if you have diabetes. You'll get fiber and very little fat or salt (unless you add them). Remember, potatoes and corn count as carbs."
+  utter_faq/hormones:
+  - text: "Hormones are substances produced by your endocrine glands that have a tremendous effect on bodily processes. They affect growth and development, mood, sexual function, reproduction, and metabolism."
+
+  utter_faq/tredouble_depression:
+  - text: "The fact that people with dysthymia have a feeling of having little or no control suggests that cognitive therapy in combination with antidepressants may be an effective treatment. The goal of cognitive therapy is to change negative thinking patterns and to give people new ways of seeing and dealing with themselves and their environment. This addresses both the major depression and the dysthymia of double depression."
+
+  utter_faq/types_conflicts_cinterpersonal_therapy_address_help_depression:
+  - text: "Interpersonal therapy is a short-term focused treatment for depression. It addresses interpersonal issues that may be related to and affected by depression. The therapy focuses on 4 main types of problems:Interpersonal disputes or conflicts. These disputes happen in marriages, families, work, school, and with friends.Role transitions. Life changes, such as divorces and job losses.Grief from deaths.Interpersonal deficits. This means lack of social connections and relationships."
+
+  utter_faq/cinterpersonal_therapy_(ipt)_fdepression_work_in_group_setting:
+  - text: "Interpersonal therapy is a short-term focused treatment for depression. It addresses interpersonal issues that may be related to and affected by depression. If you do therapy in a group, you have a chance to learn by watching others learn. You also can learn to model behaviors, and see different types of interpersonal interactions and associations."
+
+  utter_faq/interpersonal_therapy_(ipt)_fdepression:
+  - text: "Interpersonal therapy is a short-term focused treatment for depression. Studies have shown that IPT, which addresses interpersonal issues, may be at least as effective as short-term treatment with antidepressants for mild to moderate forms of clinical depression. Originally developed to treat depression in adults, it has been shown to be effective in treating adolescent depression and is commonly recommended as a treatment for depression in children."
+
+  utter_faq/goal_interpersonal_therapy_(ipt)_fdepression:
+  - text: "Interpersonal therapy is a short-term focused treatment for depression. It addresses interpersonal issues that may be related to and affected by depression. The goal is to quickly ease depression symptoms and improve social adjustment. The long-term goal is to teach people with depression how to make their own needed adjustments. When they can do that, they are better able to deal with and ease their depressive symptoms."
+
+  utter_faq/mania:
+  - text: "Mania is a high state that happens when you have a mental illness called bipolar disorder. Your mood can swing from day to day or over weeks or months from the lows of depression to the highs of mania. During the mania stage, you may feel good and full of energy. Mania and bipolar disorder are serious medical issue that require treatment."
+
+  utter_faq/depression_hereditary:
+  - text: "Depression can run in families. When it does, depression usually comes on between ages 15 and 30. A family link to depression is much more common in women. But genetic or hereditary factors don’t always explain why someone gets depression."
+
+  utter_faq/lexapro_work:
+  - text: "Lexapro helps your body make more of a hormone called serotonin. It helps regulate your mood, feeling of well-being, and sense of happiness.It also helps with things like sleep, digestion, and appetite.Lexapro belongs to a group of drugs called selective serotonin reuptake inhibitors (SSRIs.) These kinds of drugs make more serotonin available so that your nervous system cells can communicate better. These drugs are “selective” because they specifically target serotonin."
+
+  utter_faq/cognitive_therapy,_behavioral_therapy,_cognitive_behavioral_therapy:
+  - text: "These treatments focus on how your own thoughts and behaviors contribute to your depression. Your therapist will help you learn ways to react to things and challenge your preconceptions. You and your therapist might come up with goals. You might also get homework assignments, like to keep a journal or apply problem-solving techniques in particular situations."
+
+  utter_faq/cpsychotherapy_do:
+  - text: "It can help you find ways to take charge of your stress.Many studies support the idea that therapy can be a powerful treatment for depression. Some, although not all, have also found that combining depression medicine with therapy can be very effective."
+
+  utter_faq/cget_better_depression:
+  - text: "Take an active role in your treatment. Taking charge of your treatment is one way to feel in control again. Some tips:Stick with your treatment because antidepressants and talk therapy may take weeks or longer to work. Or your doctor may need to try different combinations of treatments.Take your medicine as prescribed on schedule.Never quit your medicine without your doctor's OK.Make lifestyle changes. Eat a healthy diet, drink less alcohol, lower stress, and get enough sleep.Be honest and open with your therapist or mental health professionals.Don't give up even if you feel helpless. Give yourself time to feel better again."
+
+  utter_faq/photopsifortification_spectrmigraine_headaches:
+  - text: "Some people with migraines get a visual disturbance called an aura before or along with their headaches. Photopsia is the medical term for an aura with flashes of light.Fortification spectra are more complicated images that can float in your vision during a migraine. These get their name from their resemblance to an aerial view of an intricately built fort."
+
+  utter_faq/symptoms_ocular_migraines:
+  - text: "About half of people who get these migraines will lose sight in one eye for a few minutes. In the other half of cases, the symptoms are a bit less dramatic, such as:BlurringPartial vision lossBlank spots in your vision, called scotomasDimmingFlashes of lightOcular migraines are usually brief, lasting less than five minutes. But they can last up to 30 minutes. Forty-one percent of people have a headache during the vision loss, and 25% have it before or after."
+
+  utter_faq/long_tension_headaches_last:
+  - text: "Tension headaches can last from 30 minutes to a few days. The episodic kind usually starts gradually, often in the middle of the day."
+
+  utter_faq/side_effects_botox_fmigraines:
+  - text: "Neck pain and headache are the most common side effects for people who get chronic migraine headaches and use Botox.It's rare, but you can have an allergic reaction to Botox. Signs of this can be hives, shortness of breath, or swelling in your lower legs. Although there's no confirmed case where Botox spread to other parts of the body, it is possible and could be deadly. The medication label includes this warning."
+
+  utter_faq/ccoenzyq10_help_migraines:
+  - text: "Coenzyme Q10, sometimes called coQ10, is a part of your metabolism. Foods like liver, whole grains, and oily fish like salmon are the primary food sources for this vitamin. Some studies do show it may help prevent migraines. In one small study, some 30 people with migraines were given coenzyme Q10 each day. More than 60% of them had a 50% drop in the number of days they had a migraine. It doesn’t have many major side effects, though you could get an upset stomach or nausea. Doses higher than 300 milligrams daily may affect your liver. And if you take the blood thinner warfarin, coQ10 may make it less effective."
+
+  utter_faq/cmuch_little_sleep_trigger_migraines:
+  - text: "Yes. Both can bring on a headache. It's important to keep a regular schedule. If you can't fall or stay asleep, or if you're getting seven to eight hours a night and still feel tired, talk to your doctor. You could have a sleep disorder like sleep apnea or insomnia. They can cause headaches, including migraines."
+
+  utter_faq/migraines_considered_disability:
+  - text: "Migraines can be a disability under the Americans with Disabilities Act. The legislation makes it illegal for your boss to discriminate against you because of your condition. Whether you qualify for protection under the act depends on how much your migraine affects your ability to do your job. You can work with your boss or human resources department to come up with ways to make it easier to do your job."
+
+  utter_faq/cdaith_piercings_help_migraines:
+  - text: "One unusual approach to treating migraine pain is piercing a cartilage fold on your ear just above the ear canal. It’s called a daith piercing. The idea is that it targets a specific pressure point, like acupuncture or acupressure, but in a more permanent way. The piercing hits an area near the vagus nerve, which travels from your brain to multiple organs. It controls some of your body’s hormones. Stimulating this nerve has been a way to treat headaches in the past. Although some people with frequent migraines say the piercing has helped, there are no studies or research to prove that it’s an effective treatment."
