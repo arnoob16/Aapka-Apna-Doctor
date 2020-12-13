@@ -19,3 +19,8 @@ rules:
 - rule: Say 'ask your question'
   steps:
   - action: utter_ask
+
+- rule: respond to FAQs
+  steps:
+   - intent: faq
+   - action: utter_faq

@@ -1,80 +1,134 @@
 version: "2.0"
 
 nlu:
-- intent: faq/allergies_q1
+- intent: faq/cmao_inhibitors_help_adhd
   examples: |
-   -how do i find out what i am allergic to?
+   -Can MAO inhibitors help ADHD?
 
-- intent: faq/allergies_q2
+- intent: faq/antidepressants_treadhd
   examples: |
-   -when i do i know that i need the surgery for sinusitis allergy?
+   -How do antidepressants treat ADHD?
 
-- intent: faq/breast_cancer_q1
+- intent: faq/side_effects_effexfadhd
   examples: |
-   -
+   -What are the side effects of Effexor for ADHD?
 
-- intent: faq/
+- intent: faq/long_effect_concertlast
   examples: |
+   -How long will the effect of Concerta last?
 
-- intent: faq/
+- intent: faq/safe_take_blood_pressure_drugs_stimulants_treadhd
   examples: |
+   -Is it safe to take blood pressure drugs with stimulants to treat ADHD?
 
-- intent: faq/
+- intent: faq/behaviassessment_system_fchildren
   examples: |
+   -What is the Behavior Assessment System for Children?
 
-- intent: faq/
+- intent: faq/vanderbilt_assessment_scale
   examples: |
+   -What is the Vanderbilt Assessment Scale?
 
-- intent: faq/
+- intent: faq/challenges_might_adult_adhd_experience
   examples: |
+   -What challenges might an adult with ADHD experience?
 
-- intent: faq/
+- intent: faq/side_effects_clonidine
   examples: |
+   -What are side effects of clonidine?
 
-- intent: faq/
+- intent: faq/similar_ritalin_cocaine
   examples: |
+   -How similar is Ritalin to cocaine?
 
-- intent: faq/
+- intent: faq/adderstimulant,_cmake_sopeople_sleepy
   examples: |
+   -If Adderall is a stimulant, how can it make some people sleepy?
 
-- intent: faq/
+- intent: faq/prioritization_issues_might_adult_adhd_cause
   examples: |
+   -What prioritization issues might adult ADHD cause?
 
-- intent: faq/
+- intent: faq/symptoms_adhd_go_away_age
   examples: |
+   -Do they symptoms of ADHD go away with age?
 
-- intent: faq/
+- intent: faq/cmen_prevent_yeast_infections
   examples: |
+   -How can men prevent yeast infections?
 
-- intent: faq/
+- intent: faq/ypubic_hair_change_age
   examples: |
+   -How will your pubic hair change as you age?
 
-- intent: faq/
+- intent: faq/external_catheter_help_male_incontinence
   examples: |
+   -How does an external catheter help male incontinence?
 
-- intent: faq/
+- intent: faq/ypenchange_age
   examples: |
+   -How does your penis change as you age?
 
-- intent: faq/
+- intent: faq/ytesticles_change_age
   examples: |
+   -How will your testicles change as you age?
 
-- intent: faq/
+- intent: faq/yscrotum_change_age
   examples: |
+   -How will your scrotum change as you age?
 
-- intent: faq/
+- intent: faq/sonohysterography_used_diagnose_postmenopausal_bleeding
   examples: |
+   -How is sonohysterography used to diagnose postmenopausal bleeding?
 
-- intent: faq/
+- intent: faq/endometrial_biopsy_used_diagnose_postmenopausal_bleeding
   examples: |
+   -How is an endometrial biopsy used to diagnose postmenopausal bleeding?
 
-- intent: faq/
+- intent: faq/cendometrial_hyperplasi(thickening_uterine_lining)_cause_postmenopausal_bleeding
   examples: |
+   -Can endometrial hyperplasia (thickening of the uterine lining) cause postmenopausal bleeding?
 
-- intent: faq/
+- intent: faq/might_ydoctrecommend_hysterectobleeding_after_menopause
   examples: |
+   -When might your doctor recommend a hysterectomy if you have bleeding after menopause?
 
-- intent: faq/
+- intent: faq/bleeding_during_perimenopause_normal
   examples: |
+   -Is bleeding during perimenopause normal?
 
-- intent: faq/
+- intent: faq/sexually_transmitted_diseases_ccause_postmenopausal_bleeding
   examples: |
+   -What sexually transmitted diseases can cause postmenopausal bleeding?
+
+- intent: faq/hysteroscopy_used_trepostmenopausal_bleeding
+  examples: |
+   -How is hysteroscopy used to treat postmenopausal bleeding?
+
+- intent: faq/transvaginal_ultrasound_used_diagnose_postmenopausal_bleeding
+  examples: |
+   -How is a transvaginal ultrasound used to diagnose postmenopausal bleeding?
+
+- intent: faq/medications_ccause_postmenopausal_bleeding
+  examples: |
+   -What medications can cause postmenopausal bleeding?
+
+- intent: faq/cvaginal_atrophy_(thinning_vaginal_tissue)_cause_postmenopausal_bleeding
+  examples: |
+   -Can vaginal atrophy (thinning of vaginal tissue) cause postmenopausal bleeding?
+
+- intent: faq/cendometrial_atrophy_cause_postmenopausal_bleeding
+  examples: |
+   -Can endometrial atrophy cause postmenopausal bleeding?
+
+- intent: faq/cpolyps_cause_post-menopausal_bleeding
+  examples: |
+   -Can polyps cause post-menopausal bleeding?
+
+- intent: faq/cancers_ccause_postmenopausal_bleeding
+  examples: |
+   -Which cancers can cause postmenopausal bleeding?
+
+- intent: faq/should_know_about_post-menopausal_bleeding
+  examples: |
+   -What should I know about post-menopausal bleeding?

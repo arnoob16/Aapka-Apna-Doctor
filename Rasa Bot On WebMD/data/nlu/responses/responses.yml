@@ -4,10 +4,101 @@ responses:
   utter_out_of_scope/all_others:
   - text: "Sorry i don't understand it."
 
-  utter_faq/allergies_q1:
-  - text: "Usually your doctor can diagnose allergies based on your symptoms and triggers. If your reactions are more severe or medication doesn\u2019t help, an allergist (a doctor who specializes in treating allergies) may do a skin test to find out what your triggers are."
+  utter_faq/cmao_inhibitors_help_adhd:
+  - text: "Monoamine oxidase (MAO) inhibitors are a group of antidepressants that can treat ADHD with some benefit -- but they're rarely used because they sometimes have dangerous side effects and can cause serious problems when you take them with foods and other medications. They may help people if no other medications have worked. Examples include phenelzine (Nardil) or tranylcypromine (Parnate)."
 
-  utter_faq/allergies_q2:
-  - text: "Occasionally, if you have chronic sinusitis or acute sinusitis that keeps coming back, an operation may be the best choice. The surgeon can remove blockages and enlarge the sinus passages, which makes it easier for them to drain."
+  utter_faq/antidepressants_treadhd:
+  - text: "Antidepressants seem to improve attention span, impulse control, hyperactivity, and aggressiveness. Children and teens who take them are often more willing to take direction and are less disruptive.Most of them work by boosting the levels of brain messenger-chemicals (neurotransmitters), such as norepinephrine, serotonin, and dopamine."
 
-  
+  utter_faq/side_effects_effexfadhd:
+  - text: "Venlafaxine (Effexor) can cause nausea, anxiety, sleep problems, tremor, dry mouth, and sexual problems in adults."
+
+  utter_faq/long_effect_concertlast:
+  - text: "Concerta is the brand name for methylphenidate hydrochloride extended-release tablets. The medicine gets into your system slowly, and the effects can last up to 12 hours. One pill in the morning is meant to help manage your ADHD symptoms through the whole school or work day."
+
+  utter_faq/safe_take_blood_pressure_drugs_stimulants_treadhd:
+  - text: "Combining a stimulant with a blood pressure medication can be risky: Some children taking both stimulants and clonidine HCL have died. It's unclear whether their deaths were due to the combination of drugs.If you take them together, your doctor should watch you closely to help lower your risk of complications. They can screen you for heart rhythm irregularities, check your blood pressure often, and do electrocardiograms.If your doctor thinks that taking these two medications has more possible benefits than risks, it may be a good option for you."
+
+  utter_faq/behaviassessment_system_fchildren:
+  - text: "The Behavior Assessment System for Children (BASC) is a test that looks for things like hyperactivity, aggression, and conduct problems. It also looks for anxiety, depression, attention and learning problems, as well as the lack of certain essential skills."
+
+  utter_faq/vanderbilt_assessment_scale:
+  - text: "The Vanderbilt Assessment Scale is a 55-question assessment tool that reviews symptoms of ADHD. It also looks for other conditions such as conduct disorder, oppositional-defiant disorder, anxiety, and depression."
+
+  utter_faq/challenges_might_adult_adhd_experience:
+  - text: "If you have ADHD, you may have trouble with:AnxietyChronic boredomChronic lateness and forgetfulnessDepressionTrouble concentrating when readingTrouble controlling angerProblems at workImpulsivenessLow tolerance for frustrationLow self-esteemMood swingsPoor organization skillsProcrastinationRelationship problemsSubstance abuse or addictionThese may affect you a lot, or they may not bother you much. They can be problems all of the time or just depend on the situation."
+
+  utter_faq/side_effects_clonidine:
+  - text: "Some side effects of clonidine, or Kapvay, might include:Sleepiness, fatigue, or sedationHeadacheDizzinessSince clonidine can cause drowsiness, make sure you know how it affects you before you drive or use heavy machinery.Rarer and more serious side effects include low blood pressure and sudden changes in heart rhythm."
+
+  utter_faq/similar_ritalin_cocaine:
+  - text: "In large doses -- greater than what is typically prescribed for ADHD -- Ritalin does have effects similar to those of cocaine. However, researchers have found marked differences between the two drugs. One of the factors that leads to addiction and drug abuse is how quickly a drug raises dopamine levels. The faster dopamine levels go up, the greater the potential for abuse. One researcher found that Ritalin takes about an hour to raise dopamine levels in the brain, compared to only seconds with inhaled cocaine. The doses of Ritalin and other stimulants used to treat ADHD tend to be lower and longer-acting, which reduces the risk of addiction. Long-term use of all stimulants can sometimes lead to a phenomenon called tolerance -- that is, higher doses are needed to achieve the same effect of a controlled substance. If and when this happens, a doctor may then be more likely to consider using nonstimulant medicines to treat ADHD."
+
+  utter_faq/adderstimulant,_cmake_sopeople_sleepy:
+  - text: "Adderall boosts your levels of serotonin, norepinephrine, and dopamine. These are neurotransmitters in your brain that calm and relax you so you can focus better. They also affect sleep in different ways. That may be the reason the drug causes drowsiness in some but not others. In studies, 2% to 4% of kids who took the drug had low energy and sleepiness. For adults, it was 6%."
+
+  utter_faq/prioritization_issues_might_adult_adhd_cause:
+  - text: "Often, people with adult ADHD misprioritize, failing to meet big obligations, like a deadline at work, while spending countless hours on something insignificant."
+
+  utter_faq/symptoms_adhd_go_away_age:
+  - text: "Overall, hyperactivity tends to diminish with age. On the other hand, inattention tends to last into adulthood."
+
+  utter_faq/cmen_prevent_yeast_infections:
+  - text: "The best way to stop a yeast infection from happening (or coming back) is to practice good hygiene.Clean and dry your penis each time you shower and after sex. Unscented soaps are best.If your partner has a yeast infection, use a condom during sex.Wear loose cotton underwear. This prevents moisture from building up under your foreskin. If your groin gets too moist, it’s easier for candida fungus to grow there."
+
+  utter_faq/ypubic_hair_change_age:
+  - text: "As testosterone levels fall, pubic hair will thin and may turn gray."
+
+  utter_faq/external_catheter_help_male_incontinence:
+  - text: "Unlike the catheters used at the hospital, external catheters for male incontinence are silicone or latex devices that go over the penis instead of into the urethra. They're usually rolled on like condoms. The urine is sent through a tube into a drainage bag. Some men only use these devices at night. To prevent leaks, it's very important to get the right fit and to follow the instructions from the manufacturer."
+
+  utter_faq/ypenchange_age:
+  - text: "Your penis will change in phases over your lifetime. It mostly depends on your testosterone levels. Somewhere between the ages of 9 and 15, your pituitary gland releases hormones that tell your body to start making testosterone. That starts your puberty. Your testes (testicles), scrotum, penis, and pubic hair all begin to grow. Testosterone levels peak in your late teens to early 20s, and then drop slightly through your 40s. After that, your total testosterone levels may drop only a little."
+
+  utter_faq/ytesticles_change_age:
+  - text: "The small organs inside your scrotum mostly exist to make sperm. As your testosterone levels fall, sperm production slows and they shrink. If you get hormone replacement therapy, your pituitary gland will stop sending signals to your testes to make testosterone, and they will shrink more."
+
+  utter_faq/yscrotum_change_age:
+  - text: "Its job is to manage the temperature of your testes. It’s lined with smooth muscle that contracts and relaxes to pull your testicles close to your body to keep them warm or let them drop away and cool off. As you get older, the muscles don’t work as well, and your scrotum stays in a more slackened position. Combine that with your skin’s natural decline in elasticity, and the sagging gets worse. If you’re over 40, a hydrocele can also make your scrotum sag. It happens when fluid builds up around one or both testicles. Maybe your body makes too much liquid, or perhaps it can’t drain well. It’s generally painless. If you notice swelling or feel any discomfort, see your doctor."
+
+  utter_faq/sonohysterography_used_diagnose_postmenopausal_bleeding:
+  - text: "Your doctor may use sonohysterography to measure the size of a polyp. They’ll put a saltwater solution inside your uterus to create a clearer ultrasound image."
+
+  utter_faq/endometrial_biopsy_used_diagnose_postmenopausal_bleeding:
+  - text: "During an endometrial biopsy, the doctor uses a thin tube to take a small sample of the tissue that lines your uterus. They’ll send it to a lab where scientists will look for anything unusual, like an infection or cancerous cells."
+
+  utter_faq/cendometrial_hyperplasi(thickening_uterine_lining)_cause_postmenopausal_bleeding:
+  - text: "After menopause, you may have too much estrogen and too little progesterone. As a result, the endometrium gets thicker and can bleed. Sometimes, cells in the endometrium can become abnormal. This could lead to cancer, so get it treated as soon as possible."
+
+  utter_faq/might_ydoctrecommend_hysterectobleeding_after_menopause:
+  - text: "There are different possible causes for bleeding after menopause. A hysterectomy is a surgical procedure that removes part or all of your uterus. It’s a treatment for endometrial or cervical cancer. Some people with a precancerous form of endometrial hyperplasia may also need it."
+
+  utter_faq/bleeding_during_perimenopause_normal:
+  - text: "The years before menopause are called perimenopause. During this time, your hormones shift. Your period may be heavier or lighter than usual. You may also have spotting. That’s normal, but if your bleeding is heavy or lasts longer than usual, talk to your doctor. You should also get checked out if you bleed after sex or more often than every 3 weeks."
+
+  utter_faq/sexually_transmitted_diseases_ccause_postmenopausal_bleeding:
+  - text: "Some sexually transmitted diseases, like chlamydia and gonorrhea, may cause spotting and bleeding after sex. Herpes sores can also bleed."
+
+  utter_faq/hysteroscopy_used_trepostmenopausal_bleeding:
+  - text: "Hysteroscopy can remove polyps. Doctors also use it to remove thickened parts of the uterine lining caused by endometrial hyperplasia. They’ll insert a hysteroscope into your vagina and pass tiny surgical tools through the tube."
+
+  utter_faq/transvaginal_ultrasound_used_diagnose_postmenopausal_bleeding:
+  - text: "A transvaginal ultrasound is an imaging test helps your doctor check for growths and look at the thickness of your endometrium. They’ll place a small probe into your vagina. It sends off sound waves to create a picture of the inside of your body."
+
+  utter_faq/medications_ccause_postmenopausal_bleeding:
+  - text: "Bleeding is often a side effect of certain drugs, like hormone therapy, tamoxifen, and blood thinners."
+
+  utter_faq/cvaginal_atrophy_(thinning_vaginal_tissue)_cause_postmenopausal_bleeding:
+  - text: "Estrogen helps to keep this tissue healthy. After menopause, low estrogen levels can cause your vaginal walls to become thin, dry, and inflamed. That often leads to bleeding after sex."
+
+  utter_faq/cendometrial_atrophy_cause_postmenopausal_bleeding:
+  - text: "The endometrium is the tissue that lines your uterus. It responds to hormones like estrogen and progesterone. Low hormone levels after menopause can cause it to get too thin. This may trigger bleeding."
+
+  utter_faq/cpolyps_cause_post-menopausal_bleeding:
+  - text: "Polyps are tissue growths that show up inside your uterus or cervical canal, or on your cervix. They’re usually not cancerous, but they can cause spotting, heavy bleeding, or bleeding after sex."
+
+  utter_faq/cancers_ccause_postmenopausal_bleeding:
+  - text: "Bleeding is the most common symptom of endometrial or uterine cancer after menopause. It can also signal vaginal or cervical cancer."
+
+  utter_faq/should_know_about_post-menopausal_bleeding:
+  - text: "If you’ve gone through menopause, you shouldn’t have any menstrual bleeding. Menopause means you haven’t had a period in at least one year.If you have any bleeding at all -- even if it’s only spotting -- you should see a doctor. They’ll want to rule out serious causes, like cancer."
