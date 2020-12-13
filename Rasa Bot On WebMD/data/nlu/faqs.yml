@@ -132,3 +132,27 @@ nlu:
 - intent: faq/should_know_about_post-menopausal_bleeding
   examples: |
    -What should I know about post-menopausal bleeding?
+
+- intent: faq/symptoms_food_poisoning
+  examples: |
+   -What are the symptoms of food poisoning?
+
+- intent: faq/ctell_food_poisoning
+  examples: |
+   -How can I tell if I have food poisoning?
+
+- intent: faq/common_causes_food_poisoning
+  examples: |
+   -What are common causes of food poisoning?
+
+- intent: faq/sosigns_food_poisoning
+  examples: |
+   -What are some signs I have food poisoning?
+
+- intent: faq/should_cdoctabout_food_poisoning
+  examples: |
+   -When should I call my doctor about food poisoning?
+
+- intent: faq/should_cdoctabout_symptoms_food_poisoning
+  examples: |
+   -When should I call a doctor about the symptoms of food poisoning?

@@ -102,3 +102,21 @@ responses:
 
   utter_faq/should_know_about_post-menopausal_bleeding:
   - text: "If you’ve gone through menopause, you shouldn’t have any menstrual bleeding. Menopause means you haven’t had a period in at least one year.If you have any bleeding at all -- even if it’s only spotting -- you should see a doctor. They’ll want to rule out serious causes, like cancer."
+
+  utter_faq/symptoms_food_poisoning:
+  - text: "“Food poisoning” is a broad term that can actually cover a whole lot of different infections.Your exact symptoms and their severity will vary. They will depend on the kind of bacteria, virus, or parasite that’s infected you, how much is in your system, and how well your immune system is fighting it off."
+
+  utter_faq/ctell_food_poisoning:
+  - text: "Despite the wide range of types, most cases of food poisoning cause some mix of the following:DiarrheaNauseaVomitingIf you have a mild case, you might think you have a stomach flu or virus. You may get better without any treatment, but some people have such bad symptoms that they may need to go to the hospital."
+
+  utter_faq/common_causes_food_poisoning:
+  - text: "Some of the causes, from most to least common in the United States, include:NorovirusSalmonellaClostridium perfringensCampylobacterShigellaE. coliGiardia intestinalisListeria"
+
+  utter_faq/sosigns_food_poisoning:
+  - text: "Cramps in your stomach and gut, diarrhea, and vomiting may start as early as 1 hour after eating tainted food and as late as 10 days or longer. It depends on what is causing the infection.Some other possible, common symptoms of a variety of food poisonings might include:Bloating and gasFeverMuscle achesWeaknessAbdominal pain and cramping"
+
+  utter_faq/should_cdoctabout_food_poisoning:
+  - text: "Though food poisoning usually goes away on its own, call your doctor if you have any signs of dehydration. For example:Dry mouth or extreme thirstNot peeing much (or at all) or dark, concentrated urineRapid heartbeat or low blood pressureWeakness, dizziness, or a lightheaded feeling, especially when going from lying down or sitting to standingConfusionYou should also call your doctor if you see any of these symptoms:Blood in your vomit or poopBlurry visionDiarrhea for more than 3 daysExtreme pain or cramps in your bellyFever over 101.5°FThrowing up that won’t stop -- you can’t even keep liquids downTingling in your armsWeakness in your musclesFood poisoning is more dangerous for some people than others. It’s best to call a doctor for:Adults 60 and olderBabies and childrenPeople with a chronic illness or weak immune systemPregnant women"
+
+  utter_faq/should_cdoctabout_symptoms_food_poisoning:
+  - text: "You should call a doctor, however, if you or a loved one have:Signs of dehydration, such as dry mouth, little or no urination, dizziness, or sunken eyesAny diarrhea in a newborn or infantInability to hold down liquids without vomitingDiarrhea that lasts longer than 2 days (1 day in a child) or is severeSevere gut pain or vomitingFever of 102°F or higher, or a rectal temperature of 100.4°F in a baby younger than 3 monthsStools that are black, tarry, or bloodyMuscle weaknessTingling in your armsBlurry visionConfusionDiarrhea or flulike illness in pregnant womenJaundice (yellow skin), which can be a sign of hepatitis A"
