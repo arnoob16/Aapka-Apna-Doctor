@@ -10,8 +10,10 @@ intents:
   - bot_challenge
   - utter_any_help
   - utter_ask
+  - faq
 
 responses:
+
   utter_greet:
   - text: "Hey! How are you?"
 
@@ -35,7 +37,7 @@ responses:
   - text: "can i help you?"
 
   utter_ask:
-  - text: "ask your question"
+  - text: "you may ask your questions now"
 
 session_config:
   session_expiration_time: 60
