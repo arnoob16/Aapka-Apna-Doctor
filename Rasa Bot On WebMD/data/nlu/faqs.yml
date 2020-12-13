@@ -1,81 +1,81 @@
 version: "2.0"
 
 nlu:
-- intent: faq/cmao_inhibitors_help_adhd
-  examples: |
-   -Can MAO inhibitors help ADHD?
+# - intent: faq/cmao_inhibitors_help_adhd
+#   examples: |
+#    -Can MAO inhibitors help ADHD?
 
-- intent: faq/antidepressants_treadhd
-  examples: |
-   -How do antidepressants treat ADHD?
+# - intent: faq/antidepressants_treadhd
+#   examples: |
+#    -How do antidepressants treat ADHD?
 
-- intent: faq/side_effects_effexfadhd
-  examples: |
-   -What are the side effects of Effexor for ADHD?
+# - intent: faq/side_effects_effexfadhd
+#   examples: |
+#    -What are the side effects of Effexor for ADHD?
 
-- intent: faq/long_effect_concertlast
-  examples: |
-   -How long will the effect of Concerta last?
+# - intent: faq/long_effect_concertlast
+#   examples: |
+#    -How long will the effect of Concerta last?
 
-- intent: faq/safe_take_blood_pressure_drugs_stimulants_treadhd
-  examples: |
-   -Is it safe to take blood pressure drugs with stimulants to treat ADHD?
+# - intent: faq/safe_take_blood_pressure_drugs_stimulants_treadhd
+#   examples: |
+#    -Is it safe to take blood pressure drugs with stimulants to treat ADHD?
 
-- intent: faq/behaviassessment_system_fchildren
-  examples: |
-   -What is the Behavior Assessment System for Children?
+# - intent: faq/behaviassessment_system_fchildren
+#   examples: |
+#    -What is the Behavior Assessment System for Children?
 
-- intent: faq/vanderbilt_assessment_scale
-  examples: |
-   -What is the Vanderbilt Assessment Scale?
+# - intent: faq/vanderbilt_assessment_scale
+#   examples: |
+#    -What is the Vanderbilt Assessment Scale?
 
-- intent: faq/challenges_might_adult_adhd_experience
-  examples: |
-   -What challenges might an adult with ADHD experience?
+# - intent: faq/challenges_might_adult_adhd_experience
+#   examples: |
+#    -What challenges might an adult with ADHD experience?
 
-- intent: faq/side_effects_clonidine
-  examples: |
-   -What are side effects of clonidine?
+# - intent: faq/side_effects_clonidine
+#   examples: |
+#    -What are side effects of clonidine?
 
-- intent: faq/similar_ritalin_cocaine
-  examples: |
-   -How similar is Ritalin to cocaine?
+# - intent: faq/similar_ritalin_cocaine
+#   examples: |
+#    -How similar is Ritalin to cocaine?
 
-- intent: faq/adderstimulant,_cmake_sopeople_sleepy
-  examples: |
-   -If Adderall is a stimulant, how can it make some people sleepy?
+# - intent: faq/adderstimulant,_cmake_sopeople_sleepy
+#   examples: |
+#    -If Adderall is a stimulant, how can it make some people sleepy?
 
-- intent: faq/prioritization_issues_might_adult_adhd_cause
-  examples: |
-   -What prioritization issues might adult ADHD cause?
+# - intent: faq/prioritization_issues_might_adult_adhd_cause
+#   examples: |
+#    -What prioritization issues might adult ADHD cause?
 
-- intent: faq/symptoms_adhd_go_away_age
-  examples: |
-   -Do they symptoms of ADHD go away with age?
+# - intent: faq/symptoms_adhd_go_away_age
+#   examples: |
+#    -Do they symptoms of ADHD go away with age?
 
-- intent: faq/cmen_prevent_yeast_infections
-  examples: |
-   -How can men prevent yeast infections?
+# - intent: faq/cmen_prevent_yeast_infections
+#   examples: |
+#    -How can men prevent yeast infections?
 
-- intent: faq/ypubic_hair_change_age
-  examples: |
-   -How will your pubic hair change as you age?
+# - intent: faq/ypubic_hair_change_age
+#   examples: |
+#    -How will your pubic hair change as you age?
 
-- intent: faq/external_catheter_help_male_incontinence
-  examples: |
-   -How does an external catheter help male incontinence?
+# - intent: faq/external_catheter_help_male_incontinence
+#   examples: |
+#    -How does an external catheter help male incontinence?
 
-- intent: faq/ypenchange_age
-  examples: |
-   -How does your penis change as you age?
+# - intent: faq/ypenchange_age
+#   examples: |
+#    -How does your penis change as you age?
 
-- intent: faq/ytesticles_change_age
-  examples: |
-   -How will your testicles change as you age?
+# - intent: faq/ytesticles_change_age
+#   examples: |
+#    -How will your testicles change as you age?
 
-- intent: faq/yscrotum_change_age
-  examples: |
-   -How will your scrotum change as you age?
+# - intent: faq/yscrotum_change_age
+#   examples: |
+#    -How will your scrotum change as you age?
 
 - intent: faq/sonohysterography_used_diagnose_postmenopausal_bleeding
   examples: |
@@ -156,3 +156,155 @@ nlu:
 - intent: faq/should_cdoctabout_symptoms_food_poisoning
   examples: |
    -When should I call a doctor about the symptoms of food poisoning?
+
+- intent: faq/initial_symptoms_whooping_cough
+  examples: |
+   -What are the initial symptoms of whooping cough?
+
+- intent: faq/everyone_whooping_cough_coughing_spells
+  examples: |
+   -Does everyone with whooping cough have coughing spells?
+
+- intent: faq/whooping_cough
+  examples: |
+   -What is whooping cough?
+
+- intent: faq/outlook_whooping_cough_fchildren_adults
+  examples: |
+   -What is the outlook of whooping cough for children and adults?
+
+- intent: faq/risks_dehydrations_whooping_cough
+  examples: |
+   -What are the risks of dehydrations from whooping cough?
+
+- intent: faq/symptoms_whooping_cough_after_7-10_days
+  examples: |
+   -What are the symptoms of whooping cough after 7-10 days?
+
+- intent: faq/over-the-counter_cough_medicines_work_trewhooping_cough
+  examples: |
+   -Do over-the-counter cough medicines work to treat whooping cough?
+
+- intent: faq/why_heart_race
+  examples: |
+   -Why does my heart race?
+
+- intent: faq/why_heart_skip_beat
+  examples: |
+   -Why does my heart skip a beat?
+
+- intent: faq/cget_heartbeback_normal_heart_palpitations
+  examples: |
+   -What can I do to get my heartbeat back to normal if I have heart palpitations?
+
+- intent: faq/diabetes_kidney_disease_relate
+  examples: |
+   -How does diabetes and kidney disease relate?
+
+- intent: faq/happens_don't_raise_blood_sugar_in_time
+  examples: |
+   -What happens when I don't raise my blood sugar in time?
+
+- intent: faq/should_tell_about_diabetes
+  examples: |
+   -Who should I tell about my diabetes?
+
+- intent: faq/kidneys_involved_in_nephrogenic_diabetes_insipidus
+  examples: |
+   -How are my kidneys involved in my nephrogenic diabetes insipidus?
+
+- intent: faq/side_effects_sulfonylurefdiabetes
+  examples: |
+   -What are the side effects of sulfonylureas for diabetes?
+
+- intent: faq/why_type_2_diabetes_bad
+  examples: |
+   -Why is type 2 diabetes bad?
+
+- intent: faq/liraglutide_(victoza)
+  examples: |
+   -What is liraglutide (Victoza)?
+
+- intent: faq/mvegetables_should_ediabetes
+  examples: |
+   -How many vegetables should I eat if I have diabetes?
+
+- intent: faq/hormones
+  examples: |
+   -What are hormones?
+
+- intent: faq/tredouble_depression
+  examples: |
+   -How do you treat double depression?
+
+- intent: faq/types_conflicts_cinterpersonal_therapy_address_help_depression
+  examples: |
+   -What types of conflicts can interpersonal therapy address to help with depression?
+
+- intent: faq/cinterpersonal_therapy_(ipt)_fdepression_work_in_group_setting
+  examples: |
+   -How can interpersonal therapy (IPT) for depression work in group setting?
+
+- intent: faq/interpersonal_therapy_(ipt)_fdepression
+  examples: |
+   -What is interpersonal therapy (IPT) for depression?
+
+- intent: faq/goal_interpersonal_therapy_(ipt)_fdepression
+  examples: |
+   -What is the goal of interpersonal therapy (IPT) for depression?
+
+- intent: faq/mania
+  examples: |
+   -What is mania?
+
+- intent: faq/depression_hereditary
+  examples: |
+   -Is depression hereditary?
+
+- intent: faq/lexapro_work
+  examples: |
+   -How does Lexapro work?
+
+- intent: faq/cognitive_therapy,_behavioral_therapy,_cognitive_behavioral_therapy
+  examples: |
+   -What are cognitive therapy, behavioral therapy, and cognitive behavioral therapy?
+
+- intent: faq/cpsychotherapy_do
+  examples: |
+   -What can psychotherapy do?
+
+- intent: faq/cget_better_depression
+  examples: |
+   -How can you get better with depression?
+
+- intent: faq/photopsifortification_spectrmigraine_headaches
+  examples: |
+   -What are photopsia and fortification spectra with migraine headaches?
+
+- intent: faq/symptoms_ocular_migraines
+  examples: |
+   -What are the symptoms of ocular migraines?
+
+- intent: faq/long_tension_headaches_last
+  examples: |
+   -How long do tension headaches last?
+
+- intent: faq/side_effects_botox_fmigraines
+  examples: |
+   -What are the side effects of Botox for migraines?
+
+- intent: faq/ccoenzyq10_help_migraines
+  examples: |
+   -Can coenzyme Q10 help with migraines?
+
+- intent: faq/cmuch_little_sleep_trigger_migraines
+  examples: |
+   -Can too much or too little sleep trigger migraines?
+
+- intent: faq/migraines_considered_disability
+  examples: |
+   -Are migraines considered a disability?
+
+- intent: faq/cdaith_piercings_help_migraines
+  examples: |
+   -How can daith piercings help with migraines?
