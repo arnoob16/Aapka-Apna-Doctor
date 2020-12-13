@@ -15,9 +15,10 @@
 
 ## How was it built:
 <img src="https://raw.githubusercontent.com/RasaHQ/rasa-nlu-examples/master/square-logo.svg" height="150px">
-<img src="https://img.shields.io/badge/Built%20with%20Python3-%231DA1F2.svg?&style=for-the-badge&logo=Python&logoColor=white&color=E34F26">
-<a href="#">
+<p>
+<img src="https://img.shields.io/badge/Built%20with%20Python3-%231DA1F2.svg?&style=for-the-badge&logo=Python&logoColor=white&color=E34F26"><a href="#">
 <img src="https://img.shields.io/badge/Use%20Now%20on%20Telegram-%231DA1F2.svg?&style=for-the-badge&logo=Telegram&logoColor=white&color=2CA5E0"></a>
+</p>
 
 <br>
 
@@ -41,10 +42,23 @@
 
 ## Contributors
 
-<table>
-<tr align="center">
+<style>
+	.flexbox{
+		display: flex;
+		flex-wrap: wrap;
+		width: 100%;
+		justify-content: center;
+	}
+	.contributer{
+		min-width: 250px;
+		border: 2px solid #ffa400;
+		margin: 5px;
+	}
+</style>
 
-<td>
+<div class="flexbox">
+
+<div class="contributer" align="center">
 <h3>Arnab Deep</h3>
 <p align="center">
 <img src = "https://avatars2.githubusercontent.com/u/49037005?s=460&u=5141a8e80dcb54841dc20263a1db94d8dff0775c&v=4" width="150" height="150" alt="Arnab Deep Image">
@@ -55,9 +69,9 @@
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36" alt="LinkedIn"/>
 </a>
 </p>
-</td>
+</div>
 
-<td>
+<div class="contributer" align="center">
 <h3>Shubham Kumar</h3>
 <p align="center">
 <img src = "https://avatars2.githubusercontent.com/u/42847318?s=460&u=d3eb6213ba4a752bd93925ba0842cb954c19c4ad&v=4" width="150" height="150" alt="Shubham Kumar Image">
@@ -68,9 +82,9 @@
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36" alt="LinkedIn"/>
 </a>
 </p>
-</td>
+</div>
 
-<td>
+<div class="contributer" align="center">
 <h3>Varun Vaibhav Jha</h3>
 <p align="center">
 <img src = "https://avatars1.githubusercontent.com/u/60656060?s=400&u=20e1aa0e8535c482604c28887d9ace7980c26e57&v=4" width="150" height="150" alt="Varun Vaibhav Jha Image">
@@ -82,9 +96,9 @@
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36" alt="LinkedIn"/>
 </a>
 </p>
-</td>
+</div>
 
-<td>
+<div class="contributer" align="center">
 <h3>Sukesh Seth</h3>
 <p align="center">
 <img src = "https://avatars1.githubusercontent.com/u/41232037?s=460&u=1dd6e5dfc480d382ae0621e46cdd0819046a94c5&v=4" width="150" height="150" alt="Sukesh Seth Image">
@@ -96,11 +110,9 @@
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36" alt="LinkedIn"/>
 </a>
 </p>
-</td>
+</div>
 
-
-</tr>
-</table>
+</div>
 
 <h3 align="center">
 	Made with ❤️ by The Loners Saga
